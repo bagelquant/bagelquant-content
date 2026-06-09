@@ -4,8 +4,8 @@ excerpt: 从基础原理到可投资组合的量化股票研究。
 header:
   overlay_image: /assets/images/header.png
   actions:
-    - label: Start here
-      url: /quick-start/
+    - label: 快速开始
+      url: /content/cn/quick-start/
 lang: zh
 ref: home
 alternate_lang_url: /
