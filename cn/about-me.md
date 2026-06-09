@@ -1,6 +1,6 @@
 ---
 title: Yanzhong (Eric) Huang
-layout: content
+layout: home_page
 excerpt: 系统化资产管理 | 定量研究 | 组合构建
 header:
   overlay_image: /assets/images/eric-huang-prohead.png
@@ -11,7 +11,7 @@ alternate_lang_url: /about-me
 
 ## 关于我
 
-你好，我是 Eric。
+你好，我是黄沿中 (Eric) Huang。
 
 我是一名量化研究员，主要关注系统化股票投资、组合构建以及研究基础设施建设。
 
