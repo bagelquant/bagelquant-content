@@ -4,7 +4,7 @@ title: "应用"
 excerpt: "未来基于图的量化股票工作流程研究平台。"
 lang: zh
 ref: "app"
-alternate_lang_url: ../../en/app/index.md
+alternate_lang_url: /content/en/app/index/
 ---
 
 BagelQuant 应用程序正在开发中。

@@ -3,7 +3,7 @@ layout: content
 title: "Factor Models in 30 Minutes"
 lang: en
 ref: "quick-start-factor-models-in-30-min"
-alternate_lang_url: ../../cn/quick-start/factor-models-in-30-min.md
+alternate_lang_url: /content/cn/quick-start/factor-models-in-30-min/
 ---
 
 A factor model organizes common sources of return and risk. In equity research, factors can describe exposures such as value, momentum, quality, size, or industry membership.

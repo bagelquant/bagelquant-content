@@ -4,7 +4,7 @@ title: "学习"
 excerpt: "为股票研究人员提供深厚的基础、模型和技术。"
 lang: zh
 ref: "learn"
-alternate_lang_url: ../../en/learn/index.md
+alternate_lang_url: /content/en/learn/index/
 ---
 
 该知识库旨在帮助读者建立持久的量化股票研究技能。它将理论与组合研究人员在实践中做出的决策联系起来。

@@ -3,7 +3,7 @@ layout: content
 title: "Probability"
 lang: en
 ref: "learn-foundations-probability"
-alternate_lang_url: ../../../cn/learn/foundations/probability.md
+alternate_lang_url: /content/cn/learn/foundations/probability/
 ---
 
 This section is under development. It will cover probability concepts for reasoning under uncertainty in quantitative research.

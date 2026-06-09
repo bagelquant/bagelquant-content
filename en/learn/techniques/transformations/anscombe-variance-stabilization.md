@@ -2,7 +2,7 @@
 layout: content
 lang: en
 ref: "learn-techniques-transformations-anscombe-variance-stabilization"
-alternate_lang_url: ../../../../cn/learn/techniques/transformations/anscombe-variance-stabilization.md
+alternate_lang_url: /content/cn/learn/techniques/transformations/anscombe-variance-stabilization/
 ---
 # Anscombe Variance Stabilization
 

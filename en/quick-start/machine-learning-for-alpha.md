@@ -3,7 +3,7 @@ layout: content
 title: "Machine Learning for Alpha"
 lang: en
 ref: "quick-start-machine-learning-for-alpha"
-alternate_lang_url: ../../cn/quick-start/machine-learning-for-alpha.md
+alternate_lang_url: /content/cn/quick-start/machine-learning-for-alpha/
 ---
 
 Machine learning can combine many features into return forecasts, but it does not remove the hard parts of quantitative research: point-in-time data, leakage prevention, validation design, interpretability, and cost-aware evaluation.

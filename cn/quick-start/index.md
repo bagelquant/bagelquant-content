@@ -4,7 +4,7 @@ title: "快速开始"
 excerpt: "量化股票组合管理的引导式入门。"
 lang: zh
 ref: "quick-start"
-alternate_lang_url: ../../en/quick-start/index.md
+alternate_lang_url: /content/en/quick-start/index/
 ---
 
 本节面向希望先快速建立实践地图、再深入学习量化股票研究的新读者。

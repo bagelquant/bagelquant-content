@@ -3,7 +3,7 @@ layout: content
 title: "30 分钟上手因子模型"
 lang: zh
 ref: "quick-start-factor-models-in-30-min"
-alternate_lang_url: ../../en/quick-start/factor-models-in-30-min.md
+alternate_lang_url: /content/en/quick-start/factor-models-in-30-min/
 ---
 
 因子模型组织了常见的回报和风险来源。在股票研究中，因素可以描述价值、动量、质量、规模或行业成员资格等风险。

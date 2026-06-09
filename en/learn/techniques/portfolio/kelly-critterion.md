@@ -2,7 +2,7 @@
 layout: content
 lang: en
 ref: "learn-techniques-portfolio-position-sizing"
-alternate_lang_url: ../../../../cn/learn/techniques/portfolio/position-sizing.md
+alternate_lang_url: /content/cn/learn/techniques/portfolio/position-sizing/
 ---
 
 # Position Sizing

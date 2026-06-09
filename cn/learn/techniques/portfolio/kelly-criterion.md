@@ -2,7 +2,7 @@
 layout: content
 lang: zh
 ref: "learn-techniques-portfolio-kelly-criterion"
-alternate_lang_url: ../../../../en/learn/techniques/portfolio/kelly-criterion.md
+alternate_lang_url: /content/en/learn/techniques/portfolio/kelly-criterion/
 ---
 
 # 凯利准则（Kelly Criterion）

@@ -3,7 +3,7 @@ layout: content
 title: "Complete Workflow"
 lang: en
 ref: "quick-start-complete-workflow"
-alternate_lang_url: ../../cn/quick-start/complete-workflow.md
+alternate_lang_url: /content/cn/quick-start/complete-workflow/
 ---
 
 The complete BagelQuant workflow is:

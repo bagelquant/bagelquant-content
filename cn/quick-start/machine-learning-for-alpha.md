@@ -3,7 +3,7 @@ layout: content
 title: "机器学习与 Alpha"
 lang: zh
 ref: "quick-start-machine-learning-for-alpha"
-alternate_lang_url: ../../en/quick-start/machine-learning-for-alpha.md
+alternate_lang_url: /content/en/quick-start/machine-learning-for-alpha/
 ---
 
 机器学习可以将许多特征结合到回报预测中，但它并没有消除定量研究的困难部分：时间点数据、泄漏预防、验证设计、可解释性和成本意识评估。

@@ -3,7 +3,7 @@ layout: content
 title: "Prediction"
 lang: en
 ref: "research-prediction"
-alternate_lang_url: ../../cn/research/prediction.md
+alternate_lang_url: /content/cn/research/prediction/
 ---
 
 Prediction combines features into expected-return forecasts. Start with transparent baselines, use time-aware validation, and compare models after accounting for turnover and portfolio behavior.

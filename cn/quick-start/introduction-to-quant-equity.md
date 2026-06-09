@@ -3,7 +3,7 @@ layout: content
 title: "Introduction to Quantitative Equity Management"
 lang: zh
 ref: "quick-start-introduction-to-quant-equity"
-alternate_lang_url: ../../en/quick-start/introduction-to-quant-equity.md
+alternate_lang_url: /content/en/quick-start/introduction-to-quant-equity/
 ---
 
 量化股权组合管理将数据转化为系统的投资决策。一个典型的流程可以概括为：

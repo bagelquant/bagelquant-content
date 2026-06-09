@@ -2,7 +2,7 @@
 layout: content
 lang: en
 ref: "learn-techniques-portfolio-risk-parity"
-alternate_lang_url: ../../../../cn/learn/techniques/portfolio/risk-parity.md
+alternate_lang_url: /content/cn/learn/techniques/portfolio/risk-parity/
 ---
 
 # Risk Parity

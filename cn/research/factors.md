@@ -3,7 +3,7 @@ layout: content
 title: "因子"
 lang: zh
 ref: "research-factors"
-alternate_lang_url: ../../en/research/factors.md
+alternate_lang_url: /content/en/research/factors/
 ---
 
 基因研究将经济思想和原始特征转化为可测量的信号。有用的评估过程会检查覆盖范围、时间安排、信息系数、分位数回报、营业额、稳定性和冗余。

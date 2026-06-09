@@ -3,7 +3,7 @@ layout: content
 title: "Panel Regression"
 lang: en
 ref: "learn-models-econometrics-panel-regression"
-alternate_lang_url: ../../../../cn/learn/models/econometrics/panel-regression.md
+alternate_lang_url: /content/cn/learn/models/econometrics/panel-regression/
 ---
 
 This section is under development. It will cover panel-data structure, fixed effects, clustered errors, and cross-sectional equity applications.

@@ -3,7 +3,7 @@ layout: content
 title: "Introduction to Quantitative Equity Management"
 lang: en
 ref: "quick-start-introduction-to-quant-equity"
-alternate_lang_url: ../../cn/quick-start/introduction-to-quant-equity.md
+alternate_lang_url: /content/cn/quick-start/introduction-to-quant-equity/
 ---
 
 Quantitative equity portfolio management turns data into systematic investment decisions. A typical process can be summarized as:

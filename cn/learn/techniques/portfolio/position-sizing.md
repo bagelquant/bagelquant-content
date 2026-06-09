@@ -2,7 +2,7 @@
 layout: content
 lang: zh
 ref: "learn-techniques-portfolio-position-sizing"
-alternate_lang_url: ../../../../en/learn/techniques/portfolio/position-sizing.md
+alternate_lang_url: /content/en/learn/techniques/portfolio/position-sizing/
 ---
 
 # 仓位管理（Position Sizing）

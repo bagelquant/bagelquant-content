@@ -2,7 +2,7 @@
 layout: content
 lang: zh
 ref: "learn-techniques-portfolio-risk-parity"
-alternate_lang_url: ../../../../en/learn/techniques/portfolio/risk-parity.md
+alternate_lang_url: /content/en/learn/techniques/portfolio/risk-parity/
 ---
 
 # 风险平价（Risk Parity）

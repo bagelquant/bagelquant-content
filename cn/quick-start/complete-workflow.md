@@ -3,7 +3,7 @@ layout: content
 title: "完整工作流"
 lang: zh
 ref: "quick-start-complete-workflow"
-alternate_lang_url: ../../en/quick-start/complete-workflow.md
+alternate_lang_url: /content/en/quick-start/complete-workflow/
 ---
 
 完整的 BagelQuant 工作流程是：

@@ -2,7 +2,7 @@
 layout: content
 lang: en
 ref: "learn-techniques-transformations-box-cox-transformation"
-alternate_lang_url: ../../../../cn/learn/techniques/transformations/box–cox-transformation.md
+alternate_lang_url: /content/cn/learn/techniques/transformations/box–cox-transformation/
 ---
 # Box–Cox Transformation
 

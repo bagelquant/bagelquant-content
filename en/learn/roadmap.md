@@ -3,7 +3,7 @@ layout: content
 title: "Learning Roadmap"
 lang: en
 ref: "learn-roadmap"
-alternate_lang_url: ../../cn/learn/roadmap.md
+alternate_lang_url: /content/cn/learn/roadmap/
 ---
 
 Use this roadmap according to the problem in front of you:

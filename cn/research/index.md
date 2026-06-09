@@ -4,7 +4,7 @@ title: "研究"
 excerpt: "将想法转化为可测试的股权策略的实践者工作流程。"
 lang: zh
 ref: "research"
-alternate_lang_url: ../../en/research/index.md
+alternate_lang_url: /content/en/research/index/
 ---
 
 本节适合那些想要将概念转化为可投资、可重复策略的研究人员。

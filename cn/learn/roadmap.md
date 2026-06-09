@@ -3,7 +3,7 @@ layout: content
 title: "学习路线图"
 lang: zh
 ref: "learn-roadmap"
-alternate_lang_url: ../../en/learn/roadmap.md
+alternate_lang_url: /content/en/learn/roadmap/
 ---
 
 可以根据手头的问题使用这条路线图：

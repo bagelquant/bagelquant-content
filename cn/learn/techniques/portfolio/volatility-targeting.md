@@ -2,7 +2,7 @@
 layout: content
 lang: zh
 ref: "learn-techniques-portfolio-volatility-targeting"
-alternate_lang_url: ../../../../en/learn/techniques/portfolio/volatility-targeting.md
+alternate_lang_url: /content/en/learn/techniques/portfolio/volatility-targeting/
 ---
 
 # 波动率目标（Volatility Targeting）

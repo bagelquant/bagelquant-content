@@ -3,7 +3,7 @@ layout: content
 title: "30 分钟上手组合构建"
 lang: zh
 ref: "quick-start-portfolio-construction-in-30-min"
-alternate_lang_url: ../../en/quick-start/portfolio-construction-in-30-min.md
+alternate_lang_url: /content/en/quick-start/portfolio-construction-in-30-min/
 ---
 
 组合建设将预测转化为可投资的权重。设计必须平​​衡预期回报、风险、多元化、流动性、营业额和实施成本。

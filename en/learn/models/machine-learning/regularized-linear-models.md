@@ -3,7 +3,7 @@ layout: content
 title: "Regularized Linear Models"
 lang: en
 ref: "learn-models-machine-learning-regularized-linear-models"
-alternate_lang_url: ../../../../cn/learn/models/machine-learning/regularized-linear-models.md
+alternate_lang_url: /content/cn/learn/models/machine-learning/regularized-linear-models/
 ---
 
 This section is under development. It will cover ridge regression, lasso, elastic net, and practical baseline design for alpha models.

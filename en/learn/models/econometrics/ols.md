@@ -3,7 +3,7 @@ layout: content
 title: "OLS"
 lang: en
 ref: "learn-models-econometrics-ols"
-alternate_lang_url: ../../../../cn/learn/models/econometrics/ols.md
+alternate_lang_url: /content/cn/learn/models/econometrics/ols/
 ---
 
 This section is under development. It will cover ordinary least squares as a baseline model for quantitative research.
