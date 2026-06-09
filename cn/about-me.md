@@ -1,12 +1,12 @@
 ---
-title: "Yanzhong (Eric) Huang"
+title: Yanzhong (Eric) Huang
 layout: content
-excerpt: "系统化资产管理 | 定量研究 | 组合构建"
+excerpt: 系统化资产管理 | 定量研究 | 组合构建
 header:
   overlay_image: /assets/images/eric-huang-prohead.png
 lang: zh
-ref: "about-me"
-alternate_lang_url: ../en/about-me.md
+ref: about-me
+alternate_lang_url: ../../about-me.md
 ---
 
 ## 关于我

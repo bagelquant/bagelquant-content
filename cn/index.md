@@ -8,7 +8,7 @@ header:
       url: /quick-start/
 lang: zh
 ref: home
-alternate_lang_url: ../index.md
+alternate_lang_url: ../../index.md
 ---
 
 # Bagelquant
