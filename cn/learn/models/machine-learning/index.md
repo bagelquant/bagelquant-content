@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "机器学习"
 lang: zh
 ref: "learn-models-machine-learning"

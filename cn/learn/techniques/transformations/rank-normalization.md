@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "排序归一化"
 lang: zh
 ref: "learn-techniques-transformations-rank-normalization"

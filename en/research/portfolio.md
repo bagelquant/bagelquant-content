@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Portfolio"
 lang: en
 ref: "research-portfolio"

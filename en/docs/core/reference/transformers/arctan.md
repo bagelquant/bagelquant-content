@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "arctan"
 lang: en
 ref: "docs-core-reference-transformers-arctan"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 lang: en
 ref: "learn-techniques-portfolio-volatility-targeting"
 alternate_lang_url: ../../../../cn/learn/techniques/portfolio/volatility-targeting.md

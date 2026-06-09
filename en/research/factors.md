@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Factors"
 lang: en
 ref: "research-factors"

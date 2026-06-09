@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Anscombe Transformation"
 lang: zh
 ref: "learn-techniques-transformations-anscombe"

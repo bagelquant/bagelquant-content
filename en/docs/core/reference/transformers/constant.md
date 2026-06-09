@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "constant"
 lang: en
 ref: "docs-core-reference-transformers-constant"

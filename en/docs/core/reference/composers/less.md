@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "less"
 lang: en
 ref: "docs-core-reference-composers-less"

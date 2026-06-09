@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "nrank"
 lang: zh
 ref: "docs-core-reference-transformers-nrank"

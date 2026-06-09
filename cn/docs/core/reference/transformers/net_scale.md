@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "net_scale"
 lang: zh
 ref: "docs-core-reference-transformers-net_scale"

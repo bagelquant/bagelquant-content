@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_std"
 lang: en
 ref: "docs-core-reference-transformers-rolling_std"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "30 分钟上手组合构建"
 lang: zh
 ref: "quick-start-portfolio-construction-in-30-min"

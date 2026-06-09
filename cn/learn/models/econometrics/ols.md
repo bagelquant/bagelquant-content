@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "OLS"
 lang: zh
 ref: "learn-models-econometrics-ols"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "文档"
 excerpt: "BagelQuant 开源生态文档。"
 lang: zh

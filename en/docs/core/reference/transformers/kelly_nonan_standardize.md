@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "kelly_nonan_standardize"
 lang: en
 ref: "docs-core-reference-transformers-kelly_nonan_standardize"

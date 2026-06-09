@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "sign"
 lang: zh
 ref: "docs-core-reference-transformers-sign"

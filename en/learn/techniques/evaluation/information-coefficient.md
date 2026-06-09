@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Information Coefficient"
 lang: en
 ref: "learn-techniques-evaluation-information-coefficient"

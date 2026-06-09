@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "统计学"
 lang: zh
 ref: "learn-foundations-statistics"

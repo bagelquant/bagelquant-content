@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "and_"
 lang: en
 ref: "docs-core-reference-composers-and_"

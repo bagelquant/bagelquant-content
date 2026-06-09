@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "identity"
 lang: en
 ref: "docs-core-reference-transformers-identity"

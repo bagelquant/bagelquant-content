@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "bagelquant-app"
 lang: en
 ref: "docs-app"

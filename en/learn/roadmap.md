@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Learning Roadmap"
 lang: en
 ref: "learn-roadmap"

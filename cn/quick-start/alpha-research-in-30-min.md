@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "30 分钟上手 Alpha 研究"
 lang: zh
 ref: "quick-start-alpha-research-in-30-min"

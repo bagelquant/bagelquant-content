@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Evaluation"
 lang: en
 ref: "learn-techniques-evaluation"

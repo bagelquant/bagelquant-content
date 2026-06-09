@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "min"
 lang: en
 ref: "docs-core-reference-composers-min"

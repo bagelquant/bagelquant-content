@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "Quick Start"
 excerpt: "A guided introduction to quantitative equity portfolio management."
 lang: en

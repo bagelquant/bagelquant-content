@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Optimization Models"
 lang: zh
 ref: "learn-models-optimization"

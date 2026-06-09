@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "vol_scale"
 lang: zh
 ref: "docs-core-reference-composers-vol_scale"

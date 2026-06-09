@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "greater"
 lang: zh
 ref: "docs-core-reference-composers-greater"

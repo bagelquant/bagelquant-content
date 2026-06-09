@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Boosting"
 lang: zh
 ref: "learn-models-machine-learning-boosting"

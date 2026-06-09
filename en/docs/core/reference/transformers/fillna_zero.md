@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "fillna_zero"
 lang: en
 ref: "docs-core-reference-transformers-fillna_zero"

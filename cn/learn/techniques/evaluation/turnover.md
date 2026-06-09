@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "换手率"
 lang: zh
 ref: "learn-techniques-evaluation-turnover"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Tree Models"
 lang: en
 ref: "learn-models-machine-learning-tree-models"

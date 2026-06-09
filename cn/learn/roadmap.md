@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "学习路线图"
 lang: zh
 ref: "learn-roadmap"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Internal Documentation"
 lang: zh
 ref: "docs-data-internals"

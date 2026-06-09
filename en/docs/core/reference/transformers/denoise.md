@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "denoise"
 lang: en
 ref: "docs-core-reference-transformers-denoise"

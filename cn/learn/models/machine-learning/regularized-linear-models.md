@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "正则化线性模型"
 lang: zh
 ref: "learn-models-machine-learning-regularized-linear-models"

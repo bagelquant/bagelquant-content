@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "div"
 lang: zh
 ref: "docs-core-reference-composers-div"

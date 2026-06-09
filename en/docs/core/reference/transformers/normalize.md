@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "normalize"
 lang: en
 ref: "docs-core-reference-transformers-normalize"

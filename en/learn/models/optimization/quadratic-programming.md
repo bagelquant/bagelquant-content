@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Quadratic Programming"
 lang: en
 ref: "learn-models-optimization-quadratic-programming"

@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "技术方法"
 lang: zh
 ref: "learn-techniques"

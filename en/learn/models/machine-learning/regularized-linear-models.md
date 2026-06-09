@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Regularized Linear Models"
 lang: en
 ref: "learn-models-machine-learning-regularized-linear-models"

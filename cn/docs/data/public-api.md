@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "公开 API"
 lang: zh
 ref: "docs-data-public-api"

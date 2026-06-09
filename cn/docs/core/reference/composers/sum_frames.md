@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "sum_frames"
 lang: zh
 ref: "docs-core-reference-composers-sum_frames"

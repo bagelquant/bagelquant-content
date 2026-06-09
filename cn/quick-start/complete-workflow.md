@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "完整工作流"
 lang: zh
 ref: "quick-start-complete-workflow"

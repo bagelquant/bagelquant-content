@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "negate"
 lang: en
 ref: "docs-core-reference-transformers-negate"

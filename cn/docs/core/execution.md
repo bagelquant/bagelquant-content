@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "执行"
 lang: zh
 ref: "docs-core-execution"

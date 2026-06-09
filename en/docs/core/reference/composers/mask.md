@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "mask"
 lang: en
 ref: "docs-core-reference-composers-mask"

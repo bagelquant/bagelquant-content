@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "机器学习与 Alpha"
 lang: zh
 ref: "quick-start-machine-learning-for-alpha"

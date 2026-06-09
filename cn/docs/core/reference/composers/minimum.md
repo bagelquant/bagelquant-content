@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "minimum"
 lang: zh
 ref: "docs-core-reference-composers-minimum"

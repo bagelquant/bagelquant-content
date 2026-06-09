@@ -1,5 +1,5 @@
 ---
-layout: home_page
+layout: index
 excerpt: "从基础原理到可投资组合的量化股票研究。"
 header:
   overlay_image: /assets/images/header.png

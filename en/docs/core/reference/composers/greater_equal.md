@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "greater_equal"
 lang: en
 ref: "docs-core-reference-composers-greater_equal"

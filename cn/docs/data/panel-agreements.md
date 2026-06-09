@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Panel Agreements"
 lang: zh
 ref: "docs-data-panel-agreements"

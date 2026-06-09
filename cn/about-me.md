@@ -1,6 +1,6 @@
 ---
 title: "Yanzhong (Eric) Huang"
-layout: aboutme
+layout: content
 excerpt: "系统化资产管理 | 定量研究 | 组合构建"
 header:
   overlay_image: /assets/images/eric-huang-prohead.png

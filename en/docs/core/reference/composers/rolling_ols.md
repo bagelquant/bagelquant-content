@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_ols"
 lang: en
 ref: "docs-core-reference-composers-rolling_ols"

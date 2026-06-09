@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_sum"
 lang: en
 ref: "docs-core-reference-transformers-rolling_sum"

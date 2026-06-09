@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "金融"
 lang: zh
 ref: "learn-finance"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "pct_change"
 lang: en
 ref: "docs-core-reference-transformers-pct_change"

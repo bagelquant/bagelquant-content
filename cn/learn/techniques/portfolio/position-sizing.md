@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 lang: zh
 ref: "learn-techniques-portfolio-position-sizing"
 alternate_lang_url: ../../../../en/learn/techniques/portfolio/position-sizing.md

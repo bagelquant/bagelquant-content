@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "微积分"
 lang: zh
 ref: "learn-foundations-calculus"

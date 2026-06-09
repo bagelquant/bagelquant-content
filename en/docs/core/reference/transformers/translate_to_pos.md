@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "translate_to_pos"
 lang: en
 ref: "docs-core-reference-transformers-translate_to_pos"

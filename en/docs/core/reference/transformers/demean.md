@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "demean"
 lang: en
 ref: "docs-core-reference-transformers-demean"

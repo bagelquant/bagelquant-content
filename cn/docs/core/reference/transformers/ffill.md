@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "ffill"
 lang: zh
 ref: "docs-core-reference-transformers-ffill"

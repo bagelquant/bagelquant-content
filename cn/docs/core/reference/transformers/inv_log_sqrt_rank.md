@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "inv_log_sqrt_rank"
 lang: zh
 ref: "docs-core-reference-transformers-inv_log_sqrt_rank"

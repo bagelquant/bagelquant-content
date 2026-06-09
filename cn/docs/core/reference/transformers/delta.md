@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "delta"
 lang: zh
 ref: "docs-core-reference-transformers-delta"

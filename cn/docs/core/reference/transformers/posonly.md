@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "posonly"
 lang: zh
 ref: "docs-core-reference-transformers-posonly"

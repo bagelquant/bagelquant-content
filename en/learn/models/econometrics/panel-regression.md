@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Panel Regression"
 lang: en
 ref: "learn-models-econometrics-panel-regression"

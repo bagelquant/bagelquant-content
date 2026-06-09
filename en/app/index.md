@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "App"
 excerpt: "A future graph-based research platform for quantitative equity workflows."
 lang: en

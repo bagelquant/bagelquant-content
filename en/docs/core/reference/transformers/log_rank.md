@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "log_rank"
 lang: en
 ref: "docs-core-reference-transformers-log_rank"

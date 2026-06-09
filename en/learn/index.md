@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "Learn"
 excerpt: "Deep foundations, models, and techniques for equity researchers."
 lang: en

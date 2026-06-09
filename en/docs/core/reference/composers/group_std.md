@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "group_std"
 lang: en
 ref: "docs-core-reference-composers-group_std"

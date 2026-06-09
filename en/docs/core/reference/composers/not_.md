@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "not_"
 lang: en
 ref: "docs-core-reference-composers-not_"

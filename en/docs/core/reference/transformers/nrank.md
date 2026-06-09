@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "nrank"
 lang: en
 ref: "docs-core-reference-transformers-nrank"

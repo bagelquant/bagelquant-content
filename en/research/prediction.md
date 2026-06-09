@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Prediction"
 lang: en
 ref: "research-prediction"

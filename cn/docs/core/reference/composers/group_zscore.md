@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "group_zscore"
 lang: zh
 ref: "docs-core-reference-composers-group_zscore"

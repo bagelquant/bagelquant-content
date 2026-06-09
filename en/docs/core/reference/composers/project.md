@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "project"
 lang: en
 ref: "docs-core-reference-composers-project"

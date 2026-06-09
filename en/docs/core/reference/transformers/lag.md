@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "lag"
 lang: en
 ref: "docs-core-reference-transformers-lag"

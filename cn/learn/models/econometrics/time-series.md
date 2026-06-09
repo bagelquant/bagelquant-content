@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "时间序列"
 lang: zh
 ref: "learn-models-econometrics-time-series"

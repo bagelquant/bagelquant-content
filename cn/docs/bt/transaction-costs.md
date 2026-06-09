@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "交易成本"
 lang: zh
 ref: "docs-bt-transaction-costs"

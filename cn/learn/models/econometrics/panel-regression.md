@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "面板回归"
 lang: zh
 ref: "learn-models-econometrics-panel-regression"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "category_zscore"
 lang: en
 ref: "docs-core-reference-transformers-category_zscore"

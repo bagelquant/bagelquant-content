@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Neural Networks"
 lang: en
 ref: "learn-models-machine-learning-neural-networks"

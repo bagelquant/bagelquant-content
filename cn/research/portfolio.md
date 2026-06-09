@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "组合"
 lang: zh
 ref: "research-portfolio"

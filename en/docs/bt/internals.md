@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Internal Documentation"
 lang: en
 ref: "docs-bt-internals"

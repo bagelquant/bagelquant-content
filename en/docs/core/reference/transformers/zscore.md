@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "zscore"
 lang: en
 ref: "docs-core-reference-transformers-zscore"

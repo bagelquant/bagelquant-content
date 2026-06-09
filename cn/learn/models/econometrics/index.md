@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "计量经济学"
 lang: zh
 ref: "learn-models-econometrics"

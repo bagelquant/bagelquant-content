@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "sub"
 lang: zh
 ref: "docs-core-reference-composers-sub"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "GMM"
 lang: en
 ref: "learn-models-econometrics-gmm"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Tushare Provider"
 lang: en
 ref: "docs-data-providers-tushare"

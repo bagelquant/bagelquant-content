@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "快速开始"
 lang: zh
 ref: "docs-data-quick-start"

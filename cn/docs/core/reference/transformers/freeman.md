@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "freeman"
 lang: zh
 ref: "docs-core-reference-transformers-freeman"

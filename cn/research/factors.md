@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "因子"
 lang: zh
 ref: "research-factors"

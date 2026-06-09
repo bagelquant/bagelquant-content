@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Bayesian Optimization"
 lang: zh
 ref: "learn-models-optimization-bayesian-optimization"

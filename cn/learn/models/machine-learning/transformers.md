@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Transformers"
 lang: zh
 ref: "learn-models-machine-learning-transformers"

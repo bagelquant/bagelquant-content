@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "kelly_rank_boxcox"
 lang: en
 ref: "docs-core-reference-transformers-kelly_rank_boxcox"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "神经网络"
 lang: zh
 ref: "learn-models-machine-learning-neural-networks"

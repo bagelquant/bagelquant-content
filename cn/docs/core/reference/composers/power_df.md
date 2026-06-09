@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "power_df"
 lang: zh
 ref: "docs-core-reference-composers-power_df"

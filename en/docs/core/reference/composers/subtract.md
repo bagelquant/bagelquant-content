@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "subtract"
 lang: en
 ref: "docs-core-reference-composers-subtract"

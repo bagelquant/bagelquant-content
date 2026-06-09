@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Risk Models"
 lang: en
 ref: "learn-finance-risk-models"

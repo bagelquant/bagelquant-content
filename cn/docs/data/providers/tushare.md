@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Tushare Provider"
 lang: zh
 ref: "docs-data-providers-tushare"

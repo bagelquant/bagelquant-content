@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Portfolio Techniques"
 lang: zh
 ref: "learn-techniques-portfolio"

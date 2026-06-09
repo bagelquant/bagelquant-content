@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "divide"
 lang: zh
 ref: "docs-core-reference-composers-divide"

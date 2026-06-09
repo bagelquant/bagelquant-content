@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Asset Pricing"
 lang: en
 ref: "learn-finance-asset-pricing"

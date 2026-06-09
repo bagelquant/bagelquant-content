@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "概率论"
 lang: zh
 ref: "learn-foundations-probability"

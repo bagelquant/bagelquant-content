@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "power"
 lang: en
 ref: "docs-core-reference-composers-power"

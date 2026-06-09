@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_rank"
 lang: zh
 ref: "docs-core-reference-transformers-rolling_rank"

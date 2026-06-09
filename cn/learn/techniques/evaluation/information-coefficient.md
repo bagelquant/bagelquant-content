@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "信息系数"
 lang: zh
 ref: "learn-techniques-evaluation-information-coefficient"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "category_mean"
 lang: zh
 ref: "docs-core-reference-transformers-category_mean"

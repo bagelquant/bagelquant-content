@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "replace_inf"
 lang: en
 ref: "docs-core-reference-transformers-replace_inf"

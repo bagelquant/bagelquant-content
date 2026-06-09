@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "mean"
 lang: zh
 ref: "docs-core-reference-composers-mean"

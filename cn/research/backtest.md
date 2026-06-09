@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "回测"
 lang: zh
 ref: "research-backtest"

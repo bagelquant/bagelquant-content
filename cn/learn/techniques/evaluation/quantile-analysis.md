@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "分位数组分析"
 lang: zh
 ref: "learn-techniques-evaluation-quantile-analysis"

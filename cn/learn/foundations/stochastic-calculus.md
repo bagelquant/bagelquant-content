@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "随机微积分"
 lang: zh
 ref: "learn-foundations-stochastic-calculus"

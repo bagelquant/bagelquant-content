@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Foundations"
 lang: en
 ref: "learn-foundations"

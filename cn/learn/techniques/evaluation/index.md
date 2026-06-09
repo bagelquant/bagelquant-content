@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "评估"
 lang: zh
 ref: "learn-techniques-evaluation"

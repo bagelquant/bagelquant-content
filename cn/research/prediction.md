@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "预测"
 lang: zh
 ref: "research-prediction"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Factor Evaluation"
 lang: en
 ref: "docs-bt-factor-evaluation"

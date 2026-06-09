@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "现代投资组合理论"
 lang: zh
 ref: "learn-finance-modern-portfolio-theory"

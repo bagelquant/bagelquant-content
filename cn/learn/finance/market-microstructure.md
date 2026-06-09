@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "市场微观结构"
 lang: zh
 ref: "learn-finance-market-microstructure"

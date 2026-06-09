@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Machine Learning"
 lang: en
 ref: "learn-models-machine-learning"

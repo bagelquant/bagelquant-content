@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Graph"
 lang: zh
 ref: "docs-core-graph"

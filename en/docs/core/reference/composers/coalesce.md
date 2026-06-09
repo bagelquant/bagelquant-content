@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "coalesce"
 lang: en
 ref: "docs-core-reference-composers-coalesce"

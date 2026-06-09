@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "product"
 lang: zh
 ref: "docs-core-reference-composers-product"

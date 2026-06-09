@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_cov"
 lang: zh
 ref: "docs-core-reference-composers-rolling_cov"

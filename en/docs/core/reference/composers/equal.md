@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "equal"
 lang: en
 ref: "docs-core-reference-composers-equal"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Research Data"
 lang: en
 ref: "research-data"

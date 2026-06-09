@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Freeman-Tukey Variance Stabilization"
 lang: zh
 ref: "learn-techniques-transformations-freeman-tukey"

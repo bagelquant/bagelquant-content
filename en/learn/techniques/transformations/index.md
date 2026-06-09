@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Transformations"
 lang: en
 ref: "learn-techniques-transformations"

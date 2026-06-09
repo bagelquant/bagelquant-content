@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "notnan"
 lang: en
 ref: "docs-core-reference-transformers-notnan"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "category_mean"
 lang: en
 ref: "docs-core-reference-transformers-category_mean"

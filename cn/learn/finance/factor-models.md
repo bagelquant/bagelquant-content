@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Factor Models"
 lang: zh
 ref: "learn-finance-factor-models"

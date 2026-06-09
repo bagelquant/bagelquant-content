@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "sin"
 lang: en
 ref: "docs-core-reference-transformers-sin"

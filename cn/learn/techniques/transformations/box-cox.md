@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Box-Cox Transformation"
 lang: zh
 ref: "learn-techniques-transformations-box-cox"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "trim"
 lang: zh
 ref: "docs-core-reference-transformers-trim"

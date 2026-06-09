@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "线性代数"
 lang: zh
 ref: "learn-foundations-linear-algebra"

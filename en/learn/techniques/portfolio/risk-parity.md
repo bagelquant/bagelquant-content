@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 lang: en
 ref: "learn-techniques-portfolio-risk-parity"
 alternate_lang_url: ../../../../cn/learn/techniques/portfolio/risk-parity.md

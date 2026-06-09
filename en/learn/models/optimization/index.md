@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Optimization Models"
 lang: en
 ref: "learn-models-optimization"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Panel"
 lang: zh
 ref: "docs-core-panel"

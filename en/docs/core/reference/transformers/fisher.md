@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "fisher"
 lang: en
 ref: "docs-core-reference-transformers-fisher"

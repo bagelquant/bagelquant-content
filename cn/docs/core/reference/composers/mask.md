@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "mask"
 lang: zh
 ref: "docs-core-reference-composers-mask"

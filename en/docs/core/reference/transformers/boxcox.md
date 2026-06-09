@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "boxcox"
 lang: en
 ref: "docs-core-reference-transformers-boxcox"

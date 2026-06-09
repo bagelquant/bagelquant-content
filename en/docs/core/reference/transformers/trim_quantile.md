@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "trim_quantile"
 lang: en
 ref: "docs-core-reference-transformers-trim_quantile"

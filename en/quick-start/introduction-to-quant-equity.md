@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Introduction to Quantitative Equity Management"
 lang: en
 ref: "quick-start-introduction-to-quant-equity"

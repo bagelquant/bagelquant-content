@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "non_nan_to_zero"
 lang: en
 ref: "docs-core-reference-transformers-non_nan_to_zero"

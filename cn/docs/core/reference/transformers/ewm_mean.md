@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "ewm_mean"
 lang: zh
 ref: "docs-core-reference-transformers-ewm_mean"

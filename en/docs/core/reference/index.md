@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "Overview"
 lang: en
 ref: "docs-core-reference"

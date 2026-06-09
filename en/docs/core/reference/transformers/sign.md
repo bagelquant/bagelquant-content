@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "sign"
 lang: en
 ref: "docs-core-reference-transformers-sign"

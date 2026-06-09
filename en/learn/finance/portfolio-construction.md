@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Portfolio Construction"
 lang: en
 ref: "learn-finance-portfolio-construction"

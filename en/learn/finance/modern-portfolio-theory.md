@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Modern Portfolio Theory"
 lang: en
 ref: "learn-finance-modern-portfolio-theory"

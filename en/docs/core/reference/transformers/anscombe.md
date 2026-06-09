@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "anscombe"
 lang: en
 ref: "docs-core-reference-transformers-anscombe"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Cross-Validation"
 lang: en
 ref: "learn-techniques-evaluation-cross-validation"

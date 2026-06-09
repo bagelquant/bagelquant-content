@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "less_equal"
 lang: zh
 ref: "docs-core-reference-composers-less_equal"

@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Overview"
 lang: en
 ref: "docs-core-reference-composers"

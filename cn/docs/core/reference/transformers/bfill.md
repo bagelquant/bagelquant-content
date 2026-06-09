@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "bfill"
 lang: zh
 ref: "docs-core-reference-transformers-bfill"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "divide"
 lang: en
 ref: "docs-core-reference-composers-divide"

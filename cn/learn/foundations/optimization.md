@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "优化"
 lang: zh
 ref: "learn-foundations-optimization"

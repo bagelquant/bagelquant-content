@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Backtest"
 lang: en
 ref: "research-backtest"

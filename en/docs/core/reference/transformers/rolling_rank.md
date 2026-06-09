@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_rank"
 lang: en
 ref: "docs-core-reference-transformers-rolling_rank"

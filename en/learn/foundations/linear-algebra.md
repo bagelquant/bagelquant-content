@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Linear Algebra"
 lang: en
 ref: "learn-foundations-linear-algebra"

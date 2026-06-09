@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Calculus"
 lang: en
 ref: "learn-foundations-calculus"

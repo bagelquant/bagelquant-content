@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Techniques"
 lang: en
 ref: "learn-techniques"

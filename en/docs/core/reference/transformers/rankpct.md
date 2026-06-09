@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rankpct"
 lang: en
 ref: "docs-core-reference-transformers-rankpct"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Panel"
 lang: en
 ref: "docs-core-panel"

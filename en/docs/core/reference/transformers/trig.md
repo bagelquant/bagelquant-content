@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "trig"
 lang: en
 ref: "docs-core-reference-transformers-trig"

@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Finance"
 lang: en
 ref: "learn-finance"

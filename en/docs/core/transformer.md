@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Transformer"
 lang: en
 ref: "docs-core-transformer"

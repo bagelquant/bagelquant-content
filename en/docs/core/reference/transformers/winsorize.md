@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "winsorize"
 lang: en
 ref: "docs-core-reference-transformers-winsorize"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "树模型"
 lang: zh
 ref: "learn-models-machine-learning-tree-models"

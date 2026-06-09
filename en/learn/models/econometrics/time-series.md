@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Time Series"
 lang: en
 ref: "learn-models-econometrics-time-series"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "or_"
 lang: zh
 ref: "docs-core-reference-composers-or_"

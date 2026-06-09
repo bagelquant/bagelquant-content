@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Convex Optimization"
 lang: en
 ref: "learn-models-optimization-convex-optimization"

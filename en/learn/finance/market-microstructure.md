@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Market Microstructure"
 lang: en
 ref: "learn-finance-market-microstructure"

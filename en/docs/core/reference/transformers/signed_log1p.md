@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "signed_log1p"
 lang: en
 ref: "docs-core-reference-transformers-signed_log1p"

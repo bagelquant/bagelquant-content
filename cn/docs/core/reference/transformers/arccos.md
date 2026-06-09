@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "arccos"
 lang: zh
 ref: "docs-core-reference-transformers-arccos"

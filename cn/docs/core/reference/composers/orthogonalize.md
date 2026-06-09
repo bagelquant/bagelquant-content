@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "orthogonalize"
 lang: zh
 ref: "docs-core-reference-composers-orthogonalize"

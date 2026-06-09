@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Execution"
 lang: en
 ref: "learn-finance-execution"

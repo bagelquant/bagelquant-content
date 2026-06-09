@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "max"
 lang: en
 ref: "docs-core-reference-composers-max"

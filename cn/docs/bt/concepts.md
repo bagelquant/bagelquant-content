@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "概念"
 lang: zh
 ref: "docs-bt-concepts"

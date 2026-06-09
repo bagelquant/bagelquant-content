@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "remove_repeated"
 lang: en
 ref: "docs-core-reference-transformers-remove_repeated"

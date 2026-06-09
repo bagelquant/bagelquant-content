@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "xor"
 lang: zh
 ref: "docs-core-reference-composers-xor"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Quick Start"
 lang: en
 ref: "docs-bt-quick-start"

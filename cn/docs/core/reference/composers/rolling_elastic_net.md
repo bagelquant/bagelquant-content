@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rolling_elastic_net"
 lang: zh
 ref: "docs-core-reference-composers-rolling_elastic_net"

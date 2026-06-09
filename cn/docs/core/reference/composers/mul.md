@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "mul"
 lang: zh
 ref: "docs-core-reference-composers-mul"

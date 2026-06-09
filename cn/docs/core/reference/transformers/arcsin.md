@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "arcsin"
 lang: zh
 ref: "docs-core-reference-transformers-arcsin"

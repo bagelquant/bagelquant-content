@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "Docs"
 excerpt: "Documentation for the BagelQuant open-source ecosystem."
 lang: en

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "风险模型"
 lang: zh
 ref: "learn-finance-risk-models"

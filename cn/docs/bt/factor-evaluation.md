@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "因子评估"
 lang: zh
 ref: "docs-bt-factor-evaluation"

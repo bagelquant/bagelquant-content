@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Quantile Analysis"
 lang: en
 ref: "learn-techniques-evaluation-quantile-analysis"

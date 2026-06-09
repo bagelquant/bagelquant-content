@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "快速开始"
 excerpt: "量化股票组合管理的引导式入门。"
 lang: zh

@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "Models"
 lang: en
 ref: "learn-models"

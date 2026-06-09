@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "研究"
 excerpt: "将想法转化为可测试的股权策略的实践者工作流程。"
 lang: zh

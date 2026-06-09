@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "rate_of_change"
 lang: zh
 ref: "docs-core-reference-transformers-rate_of_change"

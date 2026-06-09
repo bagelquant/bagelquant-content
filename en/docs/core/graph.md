@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Graph"
 lang: en
 ref: "docs-core-graph"

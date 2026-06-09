@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "kelly_rescaling_weight"
 lang: zh
 ref: "docs-core-reference-transformers-kelly_rescaling_weight"

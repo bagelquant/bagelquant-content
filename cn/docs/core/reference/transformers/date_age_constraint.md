@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "date_age_constraint"
 lang: zh
 ref: "docs-core-reference-transformers-date_age_constraint"

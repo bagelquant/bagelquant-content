@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "remove_repeated"
 lang: zh
 ref: "docs-core-reference-transformers-remove_repeated"

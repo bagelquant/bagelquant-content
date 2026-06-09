@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Machine Learning for Alpha"
 lang: en
 ref: "quick-start-machine-learning-for-alpha"

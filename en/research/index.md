@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "Research"
 excerpt: "A practitioner workflow for turning ideas into testable equity strategies."
 lang: en

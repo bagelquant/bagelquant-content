@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "cos"
 lang: zh
 ref: "docs-core-reference-transformers-cos"

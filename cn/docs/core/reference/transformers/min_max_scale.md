@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "min_max_scale"
 lang: zh
 ref: "docs-core-reference-transformers-min_max_scale"

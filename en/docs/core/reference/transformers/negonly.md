@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "negonly"
 lang: en
 ref: "docs-core-reference-transformers-negonly"

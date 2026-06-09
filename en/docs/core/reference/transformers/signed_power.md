@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "signed_power"
 lang: en
 ref: "docs-core-reference-transformers-signed_power"

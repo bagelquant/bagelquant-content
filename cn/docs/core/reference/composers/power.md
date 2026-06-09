@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "power"
 lang: zh
 ref: "docs-core-reference-composers-power"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Alpha Research in 30 Minutes"
 lang: en
 ref: "quick-start-alpha-research-in-30-min"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "ewm_std"
 lang: en
 ref: "docs-core-reference-transformers-ewm_std"

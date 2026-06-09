@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 lang: zh
 ref: "learn-techniques-portfolio-kelly-criterion"
 alternate_lang_url: ../../../../en/learn/techniques/portfolio/kelly-criterion.md

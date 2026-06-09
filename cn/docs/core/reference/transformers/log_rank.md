@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "log_rank"
 lang: zh
 ref: "docs-core-reference-transformers-log_rank"

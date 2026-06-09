@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "category_rank"
 lang: zh
 ref: "docs-core-reference-transformers-category_rank"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Composer"
 lang: en
 ref: "docs-core-composer"

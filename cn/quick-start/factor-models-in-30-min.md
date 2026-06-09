@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "30 分钟上手因子模型"
 lang: zh
 ref: "quick-start-factor-models-in-30-min"

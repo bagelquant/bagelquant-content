@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Backend API"
 lang: en
 ref: "docs-data-backend-api"

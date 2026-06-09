@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "truncate"
 lang: en
 ref: "docs-core-reference-transformers-truncate"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Factor Models in 30 Minutes"
 lang: en
 ref: "quick-start-factor-models-in-30-min"

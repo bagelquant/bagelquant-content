@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "kelly"
 lang: en
 ref: "docs-core-reference-transformers-kelly"

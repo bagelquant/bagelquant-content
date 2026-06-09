@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "log1p"
 lang: zh
 ref: "docs-core-reference-transformers-log1p"

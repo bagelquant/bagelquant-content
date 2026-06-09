@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Panel Agreements"
 lang: en
 ref: "docs-data-panel-agreements"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "weighted_sum"
 lang: en
 ref: "docs-core-reference-composers-weighted_sum"

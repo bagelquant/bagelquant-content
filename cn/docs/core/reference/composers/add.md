@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "add"
 lang: zh
 ref: "docs-core-reference-composers-add"

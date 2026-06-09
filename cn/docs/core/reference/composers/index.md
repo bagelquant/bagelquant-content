@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "概览"
 lang: zh
 ref: "docs-core-reference-composers"

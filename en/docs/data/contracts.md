@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Data Contracts"
 lang: en
 ref: "docs-data-contracts"

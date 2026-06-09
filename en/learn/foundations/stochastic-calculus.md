@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Stochastic Calculus"
 lang: en
 ref: "learn-foundations-stochastic-calculus"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "资产定价"
 lang: zh
 ref: "learn-finance-asset-pricing"

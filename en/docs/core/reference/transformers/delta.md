@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "delta"
 lang: en
 ref: "docs-core-reference-transformers-delta"

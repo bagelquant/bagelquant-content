@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Statistics"
 lang: en
 ref: "learn-foundations-statistics"

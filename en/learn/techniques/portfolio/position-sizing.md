@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Position Sizing"
 lang: en
 ref: "learn-techniques-portfolio-position-sizing"

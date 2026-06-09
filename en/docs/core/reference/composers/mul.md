@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "mul"
 lang: en
 ref: "docs-core-reference-composers-mul"

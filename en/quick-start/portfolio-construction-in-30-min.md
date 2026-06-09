@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Portfolio Construction in 30 Minutes"
 lang: en
 ref: "quick-start-portfolio-construction-in-30-min"

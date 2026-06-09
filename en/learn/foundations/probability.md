@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Probability"
 lang: en
 ref: "learn-foundations-probability"

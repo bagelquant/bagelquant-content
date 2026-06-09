@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Fama-MacBeth Regression"
 lang: zh
 ref: "learn-models-econometrics-fama-macbeth"

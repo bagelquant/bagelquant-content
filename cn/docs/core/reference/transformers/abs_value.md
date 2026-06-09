@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "abs_value"
 lang: zh
 ref: "docs-core-reference-transformers-abs_value"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "anscombe"
 lang: zh
 ref: "docs-core-reference-transformers-anscombe"

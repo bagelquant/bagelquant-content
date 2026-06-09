@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Complete Workflow"
 lang: en
 ref: "quick-start-complete-workflow"

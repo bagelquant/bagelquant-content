@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Architecture And Design"
 lang: zh
 ref: "docs-core-architecture"

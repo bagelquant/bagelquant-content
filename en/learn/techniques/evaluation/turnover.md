@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Turnover"
 lang: en
 ref: "learn-techniques-evaluation-turnover"

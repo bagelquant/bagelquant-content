@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: index
 title: "学习"
 excerpt: "为股票研究人员提供深厚的基础、模型和技术。"
 lang: zh

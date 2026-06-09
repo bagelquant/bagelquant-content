@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Composer"
 lang: zh
 ref: "docs-core-composer"

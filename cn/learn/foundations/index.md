@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "基础知识"
 lang: zh
 ref: "learn-foundations"

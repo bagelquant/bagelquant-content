@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "API"
 lang: en
 ref: "docs-bt-api"

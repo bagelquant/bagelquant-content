@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "xand"
 lang: zh
 ref: "docs-core-reference-composers-xand"

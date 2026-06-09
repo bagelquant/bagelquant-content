@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Optimization"
 lang: en
 ref: "learn-foundations-optimization"

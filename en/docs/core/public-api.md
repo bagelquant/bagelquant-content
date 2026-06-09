@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: content
 title: "Public API"
 lang: en
 ref: "docs-core-public-api"

@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "模型"
 lang: zh
 ref: "learn-models"

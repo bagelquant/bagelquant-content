@@ -1,5 +1,5 @@
 ---
-layout: content-list
+layout: index
 title: "变换"
 lang: zh
 ref: "learn-techniques-transformations"
