@@ -4,7 +4,7 @@ title: "Quick Start"
 excerpt: "A guided introduction to quantitative equity portfolio management."
 lang: en
 ref: "quick-start"
-alternate_lang_url: /content/cn/quick-start/index/
+alternate_lang_url: /content/cn/quick-start/
 ---
 
 This section is for newcomers who want a fast, practitioner-oriented map of quantitative equity research before going deeper.

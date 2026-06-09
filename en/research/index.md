@@ -4,7 +4,7 @@ title: "Research"
 excerpt: "A practitioner workflow for turning ideas into testable equity strategies."
 lang: en
 ref: "research"
-alternate_lang_url: /content/cn/research/index/
+alternate_lang_url: /content/cn/research/
 ---
 
 This section is for researchers who want to turn concepts into investable, reproducible strategies.

@@ -4,7 +4,7 @@ title: "Learn"
 excerpt: "Deep foundations, models, and techniques for equity researchers."
 lang: en
 ref: "learn"
-alternate_lang_url: /content/cn/learn/index/
+alternate_lang_url: /content/cn/learn/
 ---
 
 This knowledge base is for readers building durable quantitative equity research skills. It connects theory to the decisions a portfolio researcher makes in practice.

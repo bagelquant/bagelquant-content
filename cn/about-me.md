@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/eric-huang-prohead.png
 lang: zh
 ref: about-me
-alternate_lang_url: ../../about-me.md
+alternate_lang_url: /about-me
 ---
 
 ## 关于我
