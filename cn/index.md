@@ -1,14 +1,14 @@
 ---
 layout: index
-excerpt: "从基础原理到可投资组合的量化股票研究。"
+excerpt: 从基础原理到可投资组合的量化股票研究。
 header:
   overlay_image: /assets/images/header.png
   actions:
-    - label: "Start here"
-      url: "/quick-start/"
+    - label: Start here
+      url: /quick-start/
 lang: zh
-ref: "home"
-alternate_lang_url: ../en.md
+ref: home
+alternate_lang_url: ../index.md
 ---
 
 # Bagelquant
