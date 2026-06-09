@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Overview"
-permalink: /docs/core/reference/composers/
 lang: en
 ref: "docs-core-reference-composers"
-alternate_lang_url: /zh/docs/core/reference/composers/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/index.md
 nav: docs_en
 ---
 

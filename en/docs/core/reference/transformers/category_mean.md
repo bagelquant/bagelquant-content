@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "category_mean"
-permalink: /docs/core/reference/transformers/category_mean/
 lang: en
 ref: "docs-core-reference-transformers-category_mean"
-alternate_lang_url: /zh/docs/core/reference/transformers/category_mean/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/category_mean.md
 nav: docs_en
 ---
 

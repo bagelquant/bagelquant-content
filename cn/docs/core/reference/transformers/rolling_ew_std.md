@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_ew_std"
-permalink: /zh/docs/core/reference/transformers/rolling_ew_std/
 lang: zh
 ref: "docs-core-reference-transformers-rolling_ew_std"
-alternate_lang_url: /docs/core/reference/transformers/rolling_ew_std/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/rolling_ew_std.md
 nav: docs_zh
 ---
 

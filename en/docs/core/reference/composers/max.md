@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "max"
-permalink: /docs/core/reference/composers/max/
 lang: en
 ref: "docs-core-reference-composers-max"
-alternate_lang_url: /zh/docs/core/reference/composers/max/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/max.md
 nav: docs_en
 ---
 

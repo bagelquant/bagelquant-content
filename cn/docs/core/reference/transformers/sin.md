@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "sin"
-permalink: /zh/docs/core/reference/transformers/sin/
 lang: zh
 ref: "docs-core-reference-transformers-sin"
-alternate_lang_url: /docs/core/reference/transformers/sin/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/sin.md
 nav: docs_zh
 ---
 

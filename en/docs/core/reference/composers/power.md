@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "power"
-permalink: /docs/core/reference/composers/power/
 lang: en
 ref: "docs-core-reference-composers-power"
-alternate_lang_url: /zh/docs/core/reference/composers/power/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/power.md
 nav: docs_en
 ---
 

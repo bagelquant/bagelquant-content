@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "kelly_rescaling_weight"
-permalink: /docs/core/reference/transformers/kelly_rescaling_weight/
 lang: en
 ref: "docs-core-reference-transformers-kelly_rescaling_weight"
-alternate_lang_url: /zh/docs/core/reference/transformers/kelly_rescaling_weight/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/kelly_rescaling_weight.md
 nav: docs_en
 ---
 

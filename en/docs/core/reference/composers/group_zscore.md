@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_zscore"
-permalink: /docs/core/reference/composers/group_zscore/
 lang: en
 ref: "docs-core-reference-composers-group_zscore"
-alternate_lang_url: /zh/docs/core/reference/composers/group_zscore/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/group_zscore.md
 nav: docs_en
 ---
 

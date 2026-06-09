@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "概念"
-permalink: /zh/docs/bt/concepts/
 lang: zh
 ref: "docs-bt-concepts"
-alternate_lang_url: /docs/bt/concepts/
+alternate_lang_url: ../../../en/docs/bt/concepts.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_ewm_fw"
-permalink: /docs/core/reference/transformers/rolling_ewm_fw/
 lang: en
 ref: "docs-core-reference-transformers-rolling_ewm_fw"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_ewm_fw/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_ewm_fw.md
 nav: docs_en
 ---
 

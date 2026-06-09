@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Factor Evaluation"
-permalink: /docs/bt/factor-evaluation/
 lang: en
 ref: "docs-bt-factor-evaluation"
-alternate_lang_url: /zh/docs/bt/factor-evaluation/
+alternate_lang_url: ../../../cn/docs/bt/factor-evaluation.md
 nav: docs_en
 ---
 

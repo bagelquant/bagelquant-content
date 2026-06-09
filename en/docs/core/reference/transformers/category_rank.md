@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "category_rank"
-permalink: /docs/core/reference/transformers/category_rank/
 lang: en
 ref: "docs-core-reference-transformers-category_rank"
-alternate_lang_url: /zh/docs/core/reference/transformers/category_rank/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/category_rank.md
 nav: docs_en
 ---
 

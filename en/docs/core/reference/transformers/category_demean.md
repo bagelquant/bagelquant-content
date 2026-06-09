@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "category_demean"
-permalink: /docs/core/reference/transformers/category_demean/
 lang: en
 ref: "docs-core-reference-transformers-category_demean"
-alternate_lang_url: /zh/docs/core/reference/transformers/category_demean/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/category_demean.md
 nav: docs_en
 ---
 

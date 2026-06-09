@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /zh/learn/techniques/portfolio/risk-parity/
 lang: zh
 ref: "learn-techniques-portfolio-risk-parity"
-alternate_lang_url: /learn/techniques/portfolio/risk-parity/
+alternate_lang_url: ../../../../en/learn/techniques/portfolio/risk-parity.md
 ---
 
 # 风险平价（Risk Parity）

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Architecture And Design"
-permalink: /docs/data/architecture/
 lang: en
 ref: "docs-data-architecture"
-alternate_lang_url: /zh/docs/data/architecture/
+alternate_lang_url: ../../../cn/docs/data/architecture.md
 nav: docs_en
 ---
 

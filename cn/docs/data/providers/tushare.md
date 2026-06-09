@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Tushare Provider"
-permalink: /zh/docs/data/providers/tushare/
 lang: zh
 ref: "docs-data-providers-tushare"
-alternate_lang_url: /docs/data/providers/tushare/
+alternate_lang_url: ../../../../en/docs/data/providers/tushare.md
 nav: docs_zh
 ---
 

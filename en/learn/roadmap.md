@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Learning Roadmap"
-permalink: /learn/roadmap/
 lang: en
 ref: "learn-roadmap"
-alternate_lang_url: /zh/learn/roadmap/
+alternate_lang_url: ../../cn/learn/roadmap.md
 ---
 
 Use this roadmap according to the problem in front of you:
@@ -14,4 +13,4 @@ Use this roadmap according to the problem in front of you:
 3. Build econometric baselines before moving to machine learning.
 4. Add evaluation and portfolio techniques as your research workflow matures.
 
-The practical companion is [Research](/research/).
+The practical companion is [Research](../research/index.md).

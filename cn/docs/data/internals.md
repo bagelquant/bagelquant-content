@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Internal Documentation"
-permalink: /zh/docs/data/internals/
 lang: zh
 ref: "docs-data-internals"
-alternate_lang_url: /docs/data/internals/
+alternate_lang_url: ../../../en/docs/data/internals.md
 nav: docs_zh
 ---
 

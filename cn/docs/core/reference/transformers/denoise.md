@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "denoise"
-permalink: /zh/docs/core/reference/transformers/denoise/
 lang: zh
 ref: "docs-core-reference-transformers-denoise"
-alternate_lang_url: /docs/core/reference/transformers/denoise/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/denoise.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Quick Start"
-permalink: /docs/bt/quick-start/
 lang: en
 ref: "docs-bt-quick-start"
-alternate_lang_url: /zh/docs/bt/quick-start/
+alternate_lang_url: ../../../cn/docs/bt/quick-start.md
 nav: docs_en
 ---
 

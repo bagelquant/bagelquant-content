@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "less"
-permalink: /docs/core/reference/composers/less/
 lang: en
 ref: "docs-core-reference-composers-less"
-alternate_lang_url: /zh/docs/core/reference/composers/less/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/less.md
 nav: docs_en
 ---
 

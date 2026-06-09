@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /learn/techniques/transformations/freeman–tukey-variance-stabilization/
 lang: en
 ref: "learn-techniques-transformations-freeman-tukey-variance-stabilization"
-alternate_lang_url: /zh/learn/techniques/transformations/freeman-tukey-variance-stabilization/
+alternate_lang_url: ../../../../cn/learn/techniques/transformations/freeman-tukey-variance-stabilization.md
 ---
 # Freeman–Tukey Variance Stabilization
 

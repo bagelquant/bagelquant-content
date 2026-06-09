@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "greater_equal"
-permalink: /docs/core/reference/composers/greater_equal/
 lang: en
 ref: "docs-core-reference-composers-greater_equal"
-alternate_lang_url: /zh/docs/core/reference/composers/greater_equal/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/greater_equal.md
 nav: docs_en
 ---
 

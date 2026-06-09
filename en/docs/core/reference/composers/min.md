@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "min"
-permalink: /docs/core/reference/composers/min/
 lang: en
 ref: "docs-core-reference-composers-min"
-alternate_lang_url: /zh/docs/core/reference/composers/min/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/min.md
 nav: docs_en
 ---
 

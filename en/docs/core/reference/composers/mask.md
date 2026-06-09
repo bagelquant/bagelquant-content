@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "mask"
-permalink: /docs/core/reference/composers/mask/
 lang: en
 ref: "docs-core-reference-composers-mask"
-alternate_lang_url: /zh/docs/core/reference/composers/mask/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/mask.md
 nav: docs_en
 ---
 

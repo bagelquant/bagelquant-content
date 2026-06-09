@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rate_of_change"
-permalink: /docs/core/reference/transformers/rate_of_change/
 lang: en
 ref: "docs-core-reference-transformers-rate_of_change"
-alternate_lang_url: /zh/docs/core/reference/transformers/rate_of_change/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rate_of_change.md
 nav: docs_en
 ---
 

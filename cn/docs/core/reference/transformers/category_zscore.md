@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "category_zscore"
-permalink: /zh/docs/core/reference/transformers/category_zscore/
 lang: zh
 ref: "docs-core-reference-transformers-category_zscore"
-alternate_lang_url: /docs/core/reference/transformers/category_zscore/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/category_zscore.md
 nav: docs_zh
 ---
 

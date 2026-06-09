@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rank"
-permalink: /docs/core/reference/transformers/rank/
 lang: en
 ref: "docs-core-reference-transformers-rank"
-alternate_lang_url: /zh/docs/core/reference/transformers/rank/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rank.md
 nav: docs_en
 ---
 

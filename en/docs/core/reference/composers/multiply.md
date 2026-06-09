@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "multiply"
-permalink: /docs/core/reference/composers/multiply/
 lang: en
 ref: "docs-core-reference-composers-multiply"
-alternate_lang_url: /zh/docs/core/reference/composers/multiply/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/multiply.md
 nav: docs_en
 ---
 

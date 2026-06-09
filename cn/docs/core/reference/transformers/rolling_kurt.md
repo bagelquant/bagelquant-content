@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_kurt"
-permalink: /zh/docs/core/reference/transformers/rolling_kurt/
 lang: zh
 ref: "docs-core-reference-transformers-rolling_kurt"
-alternate_lang_url: /docs/core/reference/transformers/rolling_kurt/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/rolling_kurt.md
 nav: docs_zh
 ---
 

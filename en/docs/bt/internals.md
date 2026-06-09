@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Internal Documentation"
-permalink: /docs/bt/internals/
 lang: en
 ref: "docs-bt-internals"
-alternate_lang_url: /zh/docs/bt/internals/
+alternate_lang_url: ../../../cn/docs/bt/internals.md
 nav: docs_en
 ---
 

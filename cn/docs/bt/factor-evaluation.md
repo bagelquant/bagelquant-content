@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "因子评估"
-permalink: /zh/docs/bt/factor-evaluation/
 lang: zh
 ref: "docs-bt-factor-evaluation"
-alternate_lang_url: /docs/bt/factor-evaluation/
+alternate_lang_url: ../../../en/docs/bt/factor-evaluation.md
 nav: docs_zh
 ---
 

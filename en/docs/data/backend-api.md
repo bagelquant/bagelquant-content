@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Backend API"
-permalink: /docs/data/backend-api/
 lang: en
 ref: "docs-data-backend-api"
-alternate_lang_url: /zh/docs/data/backend-api/
+alternate_lang_url: ../../../cn/docs/data/backend-api.md
 nav: docs_en
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "mul"
-permalink: /docs/core/reference/composers/mul/
 lang: en
 ref: "docs-core-reference-composers-mul"
-alternate_lang_url: /zh/docs/core/reference/composers/mul/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/mul.md
 nav: docs_en
 ---
 

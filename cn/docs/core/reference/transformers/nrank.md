@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "nrank"
-permalink: /zh/docs/core/reference/transformers/nrank/
 lang: zh
 ref: "docs-core-reference-transformers-nrank"
-alternate_lang_url: /docs/core/reference/transformers/nrank/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/nrank.md
 nav: docs_zh
 ---
 

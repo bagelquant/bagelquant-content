@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "kelly_nonan_standardize"
-permalink: /zh/docs/core/reference/transformers/kelly_nonan_standardize/
 lang: zh
 ref: "docs-core-reference-transformers-kelly_nonan_standardize"
-alternate_lang_url: /docs/core/reference/transformers/kelly_nonan_standardize/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/kelly_nonan_standardize.md
 nav: docs_zh
 ---
 

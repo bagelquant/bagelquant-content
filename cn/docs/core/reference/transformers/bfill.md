@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "bfill"
-permalink: /zh/docs/core/reference/transformers/bfill/
 lang: zh
 ref: "docs-core-reference-transformers-bfill"
-alternate_lang_url: /docs/core/reference/transformers/bfill/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/bfill.md
 nav: docs_zh
 ---
 

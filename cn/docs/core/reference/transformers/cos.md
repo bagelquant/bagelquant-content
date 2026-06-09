@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "cos"
-permalink: /zh/docs/core/reference/transformers/cos/
 lang: zh
 ref: "docs-core-reference-transformers-cos"
-alternate_lang_url: /docs/core/reference/transformers/cos/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/cos.md
 nav: docs_zh
 ---
 

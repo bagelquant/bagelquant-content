@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "winsorize"
-permalink: /zh/docs/core/reference/transformers/winsorize/
 lang: zh
 ref: "docs-core-reference-transformers-winsorize"
-alternate_lang_url: /docs/core/reference/transformers/winsorize/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/winsorize.md
 nav: docs_zh
 ---
 

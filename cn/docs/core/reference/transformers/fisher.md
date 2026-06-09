@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "fisher"
-permalink: /zh/docs/core/reference/transformers/fisher/
 lang: zh
 ref: "docs-core-reference-transformers-fisher"
-alternate_lang_url: /docs/core/reference/transformers/fisher/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/fisher.md
 nav: docs_zh
 ---
 

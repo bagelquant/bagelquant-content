@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "abs_value"
-permalink: /zh/docs/core/reference/transformers/abs_value/
 lang: zh
 ref: "docs-core-reference-transformers-abs_value"
-alternate_lang_url: /docs/core/reference/transformers/abs_value/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/abs_value.md
 nav: docs_zh
 ---
 

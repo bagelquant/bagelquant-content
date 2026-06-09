@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "anscombe"
-permalink: /docs/core/reference/transformers/anscombe/
 lang: en
 ref: "docs-core-reference-transformers-anscombe"
-alternate_lang_url: /zh/docs/core/reference/transformers/anscombe/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/anscombe.md
 nav: docs_en
 ---
 

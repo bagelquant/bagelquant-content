@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "lag"
-permalink: /zh/docs/core/reference/transformers/lag/
 lang: zh
 ref: "docs-core-reference-transformers-lag"
-alternate_lang_url: /docs/core/reference/transformers/lag/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/lag.md
 nav: docs_zh
 ---
 

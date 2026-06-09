@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Quick Start"
-permalink: /docs/data/quick-start/
 lang: en
 ref: "docs-data-quick-start"
-alternate_lang_url: /zh/docs/data/quick-start/
+alternate_lang_url: ../../../cn/docs/data/quick-start.md
 nav: docs_en
 ---
 

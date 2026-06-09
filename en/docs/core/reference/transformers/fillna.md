@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "fillna"
-permalink: /docs/core/reference/transformers/fillna/
 lang: en
 ref: "docs-core-reference-transformers-fillna"
-alternate_lang_url: /zh/docs/core/reference/transformers/fillna/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/fillna.md
 nav: docs_en
 ---
 

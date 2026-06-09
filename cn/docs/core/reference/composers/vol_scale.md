@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "vol_scale"
-permalink: /zh/docs/core/reference/composers/vol_scale/
 lang: zh
 ref: "docs-core-reference-composers-vol_scale"
-alternate_lang_url: /docs/core/reference/composers/vol_scale/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/vol_scale.md
 nav: docs_zh
 ---
 

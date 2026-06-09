@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "remove_repeated"
-permalink: /zh/docs/core/reference/transformers/remove_repeated/
 lang: zh
 ref: "docs-core-reference-transformers-remove_repeated"
-alternate_lang_url: /docs/core/reference/transformers/remove_repeated/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/remove_repeated.md
 nav: docs_zh
 ---
 

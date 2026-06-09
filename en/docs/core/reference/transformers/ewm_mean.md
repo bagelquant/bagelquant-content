@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "ewm_mean"
-permalink: /docs/core/reference/transformers/ewm_mean/
 lang: en
 ref: "docs-core-reference-transformers-ewm_mean"
-alternate_lang_url: /zh/docs/core/reference/transformers/ewm_mean/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/ewm_mean.md
 nav: docs_en
 ---
 

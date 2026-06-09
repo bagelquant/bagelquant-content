@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "pct_change"
-permalink: /zh/docs/core/reference/transformers/pct_change/
 lang: zh
 ref: "docs-core-reference-transformers-pct_change"
-alternate_lang_url: /docs/core/reference/transformers/pct_change/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/pct_change.md
 nav: docs_zh
 ---
 

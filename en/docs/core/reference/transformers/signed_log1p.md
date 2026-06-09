@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "signed_log1p"
-permalink: /docs/core/reference/transformers/signed_log1p/
 lang: en
 ref: "docs-core-reference-transformers-signed_log1p"
-alternate_lang_url: /zh/docs/core/reference/transformers/signed_log1p/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/signed_log1p.md
 nav: docs_en
 ---
 

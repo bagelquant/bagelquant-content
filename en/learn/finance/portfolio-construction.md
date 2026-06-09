@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Portfolio Construction"
-permalink: /learn/finance/portfolio-construction/
 lang: en
 ref: "learn-finance-portfolio-construction"
-alternate_lang_url: /zh/learn/finance/portfolio-construction/
+alternate_lang_url: ../../../cn/learn/finance/portfolio-construction.md
 ---
 
-Portfolio construction translates forecasts into weights under risk, liquidity, and turnover constraints. Continue with [Research: Portfolio](/research/portfolio/) for the practitioner workflow.
+Portfolio construction translates forecasts into weights under risk, liquidity, and turnover constraints. Continue with [Research: Portfolio](../../research/portfolio.md) for the practitioner workflow.

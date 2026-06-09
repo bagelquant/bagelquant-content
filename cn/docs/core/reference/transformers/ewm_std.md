@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "ewm_std"
-permalink: /zh/docs/core/reference/transformers/ewm_std/
 lang: zh
 ref: "docs-core-reference-transformers-ewm_std"
-alternate_lang_url: /docs/core/reference/transformers/ewm_std/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/ewm_std.md
 nav: docs_zh
 ---
 

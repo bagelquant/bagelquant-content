@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_median"
-permalink: /docs/core/reference/composers/group_median/
 lang: en
 ref: "docs-core-reference-composers-group_median"
-alternate_lang_url: /zh/docs/core/reference/composers/group_median/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/group_median.md
 nav: docs_en
 ---
 

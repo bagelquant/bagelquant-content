@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "replace_inf"
-permalink: /docs/core/reference/transformers/replace_inf/
 lang: en
 ref: "docs-core-reference-transformers-replace_inf"
-alternate_lang_url: /zh/docs/core/reference/transformers/replace_inf/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/replace_inf.md
 nav: docs_en
 ---
 

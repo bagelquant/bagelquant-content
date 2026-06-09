@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "power_df"
-permalink: /docs/core/reference/composers/power_df/
 lang: en
 ref: "docs-core-reference-composers-power_df"
-alternate_lang_url: /zh/docs/core/reference/composers/power_df/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/power_df.md
 nav: docs_en
 ---
 

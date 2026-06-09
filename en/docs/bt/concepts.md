@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Concepts"
-permalink: /docs/bt/concepts/
 lang: en
 ref: "docs-bt-concepts"
-alternate_lang_url: /zh/docs/bt/concepts/
+alternate_lang_url: ../../../cn/docs/bt/concepts.md
 nav: docs_en
 ---
 

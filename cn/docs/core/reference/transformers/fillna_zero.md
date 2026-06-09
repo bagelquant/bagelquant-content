@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "fillna_zero"
-permalink: /zh/docs/core/reference/transformers/fillna_zero/
 lang: zh
 ref: "docs-core-reference-transformers-fillna_zero"
-alternate_lang_url: /docs/core/reference/transformers/fillna_zero/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/fillna_zero.md
 nav: docs_zh
 ---
 

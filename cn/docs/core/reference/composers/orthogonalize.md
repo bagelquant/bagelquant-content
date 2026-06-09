@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "orthogonalize"
-permalink: /zh/docs/core/reference/composers/orthogonalize/
 lang: zh
 ref: "docs-core-reference-composers-orthogonalize"
-alternate_lang_url: /docs/core/reference/composers/orthogonalize/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/orthogonalize.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_ridge"
-permalink: /zh/docs/core/reference/composers/rolling_ridge/
 lang: zh
 ref: "docs-core-reference-composers-rolling_ridge"
-alternate_lang_url: /docs/core/reference/composers/rolling_ridge/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/rolling_ridge.md
 nav: docs_zh
 ---
 

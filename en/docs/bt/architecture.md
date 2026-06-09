@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Architecture And Design"
-permalink: /docs/bt/architecture/
 lang: en
 ref: "docs-bt-architecture"
-alternate_lang_url: /zh/docs/bt/architecture/
+alternate_lang_url: ../../../cn/docs/bt/architecture.md
 nav: docs_en
 ---
 

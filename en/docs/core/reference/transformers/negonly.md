@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "negonly"
-permalink: /docs/core/reference/transformers/negonly/
 lang: en
 ref: "docs-core-reference-transformers-negonly"
-alternate_lang_url: /zh/docs/core/reference/transformers/negonly/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/negonly.md
 nav: docs_en
 ---
 

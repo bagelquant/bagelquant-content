@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "or_"
-permalink: /zh/docs/core/reference/composers/or_/
 lang: zh
 ref: "docs-core-reference-composers-or_"
-alternate_lang_url: /docs/core/reference/composers/or_/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/or_.md
 nav: docs_zh
 ---
 

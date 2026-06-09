@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "log"
-permalink: /zh/docs/core/reference/transformers/log/
 lang: zh
 ref: "docs-core-reference-transformers-log"
-alternate_lang_url: /docs/core/reference/transformers/log/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/log.md
 nav: docs_zh
 ---
 

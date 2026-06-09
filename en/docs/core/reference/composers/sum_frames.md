@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "sum_frames"
-permalink: /docs/core/reference/composers/sum_frames/
 lang: en
 ref: "docs-core-reference-composers-sum_frames"
-alternate_lang_url: /zh/docs/core/reference/composers/sum_frames/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/sum_frames.md
 nav: docs_en
 ---
 

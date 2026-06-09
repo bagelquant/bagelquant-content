@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "maximum"
-permalink: /zh/docs/core/reference/composers/maximum/
 lang: zh
 ref: "docs-core-reference-composers-maximum"
-alternate_lang_url: /docs/core/reference/composers/maximum/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/maximum.md
 nav: docs_zh
 ---
 

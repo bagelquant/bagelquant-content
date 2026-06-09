@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Graph"
-permalink: /zh/docs/core/graph/
 lang: zh
 ref: "docs-core-graph"
-alternate_lang_url: /docs/core/graph/
+alternate_lang_url: ../../../en/docs/core/graph.md
 nav: docs_zh
 ---
 

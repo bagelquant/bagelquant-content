@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_min"
-permalink: /docs/core/reference/composers/group_min/
 lang: en
 ref: "docs-core-reference-composers-group_min"
-alternate_lang_url: /zh/docs/core/reference/composers/group_min/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/group_min.md
 nav: docs_en
 ---
 

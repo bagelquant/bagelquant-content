@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_mean"
-permalink: /zh/docs/core/reference/transformers/rolling_mean/
 lang: zh
 ref: "docs-core-reference-transformers-rolling_mean"
-alternate_lang_url: /docs/core/reference/transformers/rolling_mean/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/rolling_mean.md
 nav: docs_zh
 ---
 

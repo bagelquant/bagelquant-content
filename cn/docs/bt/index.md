@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "概览"
-permalink: /zh/docs/bt/
 lang: zh
 ref: "docs-bt"
-alternate_lang_url: /docs/bt/
+alternate_lang_url: ../../../en/docs/bt/index.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "freeman"
-permalink: /docs/core/reference/transformers/freeman/
 lang: en
 ref: "docs-core-reference-transformers-freeman"
-alternate_lang_url: /zh/docs/core/reference/transformers/freeman/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/freeman.md
 nav: docs_en
 ---
 

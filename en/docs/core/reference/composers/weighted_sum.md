@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "weighted_sum"
-permalink: /docs/core/reference/composers/weighted_sum/
 lang: en
 ref: "docs-core-reference-composers-weighted_sum"
-alternate_lang_url: /zh/docs/core/reference/composers/weighted_sum/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/weighted_sum.md
 nav: docs_en
 ---
 

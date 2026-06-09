@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Panel Agreements"
-permalink: /zh/docs/data/panel-agreements/
 lang: zh
 ref: "docs-data-panel-agreements"
-alternate_lang_url: /docs/data/panel-agreements/
+alternate_lang_url: ../../../en/docs/data/panel-agreements.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "logrank"
-permalink: /docs/core/reference/transformers/logrank/
 lang: en
 ref: "docs-core-reference-transformers-logrank"
-alternate_lang_url: /zh/docs/core/reference/transformers/logrank/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/logrank.md
 nav: docs_en
 ---
 

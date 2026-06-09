@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Transformer"
-permalink: /docs/core/transformer/
 lang: en
 ref: "docs-core-transformer"
-alternate_lang_url: /zh/docs/core/transformer/
+alternate_lang_url: ../../../cn/docs/core/transformer.md
 nav: docs_en
 ---
 

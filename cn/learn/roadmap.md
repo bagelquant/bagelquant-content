@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "学习路线图"
-permalink: /zh/learn/roadmap/
 lang: zh
 ref: "learn-roadmap"
-alternate_lang_url: /learn/roadmap/
+alternate_lang_url: ../../en/learn/roadmap.md
 ---
 
 可以根据手头的问题使用这条路线图：
@@ -14,4 +13,4 @@ alternate_lang_url: /learn/roadmap/
 3. 在进入机器学习之前，先建立计量经济学基线。
 4. 随着研究工作流成熟，再加入评估方法和组合技术。
 
-实践配套内容见 [研究](/zh/research/)。
+实践配套内容见 [研究](../research/index.md)。

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "identity"
-permalink: /docs/core/reference/transformers/identity/
 lang: en
 ref: "docs-core-reference-transformers-identity"
-alternate_lang_url: /zh/docs/core/reference/transformers/identity/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/identity.md
 nav: docs_en
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Transaction Costs"
-permalink: /docs/bt/transaction-costs/
 lang: en
 ref: "docs-bt-transaction-costs"
-alternate_lang_url: /zh/docs/bt/transaction-costs/
+alternate_lang_url: ../../../cn/docs/bt/transaction-costs.md
 nav: docs_en
 ---
 

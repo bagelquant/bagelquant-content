@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rankpct"
-permalink: /docs/core/reference/transformers/rankpct/
 lang: en
 ref: "docs-core-reference-transformers-rankpct"
-alternate_lang_url: /zh/docs/core/reference/transformers/rankpct/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rankpct.md
 nav: docs_en
 ---
 

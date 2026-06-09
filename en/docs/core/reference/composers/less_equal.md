@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "less_equal"
-permalink: /docs/core/reference/composers/less_equal/
 lang: en
 ref: "docs-core-reference-composers-less_equal"
-alternate_lang_url: /zh/docs/core/reference/composers/less_equal/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/less_equal.md
 nav: docs_en
 ---
 

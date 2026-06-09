@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_percentile"
-permalink: /zh/docs/core/reference/composers/group_percentile/
 lang: zh
 ref: "docs-core-reference-composers-group_percentile"
-alternate_lang_url: /docs/core/reference/composers/group_percentile/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/group_percentile.md
 nav: docs_zh
 ---
 

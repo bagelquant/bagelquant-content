@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "abs"
-permalink: /zh/docs/core/reference/transformers/abs/
 lang: zh
 ref: "docs-core-reference-transformers-abs"
-alternate_lang_url: /docs/core/reference/transformers/abs/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/abs.md
 nav: docs_zh
 ---
 

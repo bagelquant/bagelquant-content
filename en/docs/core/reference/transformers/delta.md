@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "delta"
-permalink: /docs/core/reference/transformers/delta/
 lang: en
 ref: "docs-core-reference-transformers-delta"
-alternate_lang_url: /zh/docs/core/reference/transformers/delta/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/delta.md
 nav: docs_en
 ---
 

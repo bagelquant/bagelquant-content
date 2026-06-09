@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "truncate"
-permalink: /zh/docs/core/reference/transformers/truncate/
 lang: zh
 ref: "docs-core-reference-transformers-truncate"
-alternate_lang_url: /docs/core/reference/transformers/truncate/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/truncate.md
 nav: docs_zh
 ---
 

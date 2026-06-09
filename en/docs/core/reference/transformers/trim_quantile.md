@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "trim_quantile"
-permalink: /docs/core/reference/transformers/trim_quantile/
 lang: en
 ref: "docs-core-reference-transformers-trim_quantile"
-alternate_lang_url: /zh/docs/core/reference/transformers/trim_quantile/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/trim_quantile.md
 nav: docs_en
 ---
 

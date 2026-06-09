@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "xand"
-permalink: /zh/docs/core/reference/composers/xand/
 lang: zh
 ref: "docs-core-reference-composers-xand"
-alternate_lang_url: /docs/core/reference/composers/xand/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/xand.md
 nav: docs_zh
 ---
 

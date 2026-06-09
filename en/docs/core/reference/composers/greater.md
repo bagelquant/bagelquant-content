@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "greater"
-permalink: /docs/core/reference/composers/greater/
 lang: en
 ref: "docs-core-reference-composers-greater"
-alternate_lang_url: /zh/docs/core/reference/composers/greater/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/greater.md
 nav: docs_en
 ---
 

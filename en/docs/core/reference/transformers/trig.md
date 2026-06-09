@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "trig"
-permalink: /docs/core/reference/transformers/trig/
 lang: en
 ref: "docs-core-reference-transformers-trig"
-alternate_lang_url: /zh/docs/core/reference/transformers/trig/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/trig.md
 nav: docs_en
 ---
 

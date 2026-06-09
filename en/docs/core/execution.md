@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Execution"
-permalink: /docs/core/execution/
 lang: en
 ref: "docs-core-execution"
-alternate_lang_url: /zh/docs/core/execution/
+alternate_lang_url: ../../../cn/docs/core/execution.md
 nav: docs_en
 ---
 

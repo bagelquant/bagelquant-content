@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_min"
-permalink: /docs/core/reference/transformers/rolling_min/
 lang: en
 ref: "docs-core-reference-transformers-rolling_min"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_min/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_min.md
 nav: docs_en
 ---
 

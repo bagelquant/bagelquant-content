@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Overview"
-permalink: /docs/data/
 lang: en
 ref: "docs-data"
-alternate_lang_url: /zh/docs/data/
+alternate_lang_url: ../../../cn/docs/data/index.md
 nav: docs_en
 ---
 

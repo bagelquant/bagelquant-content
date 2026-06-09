@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "arctan"
-permalink: /zh/docs/core/reference/transformers/arctan/
 lang: zh
 ref: "docs-core-reference-transformers-arctan"
-alternate_lang_url: /docs/core/reference/transformers/arctan/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/arctan.md
 nav: docs_zh
 ---
 

@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /learn/techniques/transformations/box–cox-transformation/
 lang: en
 ref: "learn-techniques-transformations-box-cox-transformation"
-alternate_lang_url: /zh/learn/techniques/transformations/box–cox-transformation/
+alternate_lang_url: ../../../../cn/learn/techniques/transformations/box–cox-transformation.md
 ---
 # Box–Cox Transformation
 

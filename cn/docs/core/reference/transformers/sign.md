@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "sign"
-permalink: /zh/docs/core/reference/transformers/sign/
 lang: zh
 ref: "docs-core-reference-transformers-sign"
-alternate_lang_url: /docs/core/reference/transformers/sign/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/sign.md
 nav: docs_zh
 ---
 

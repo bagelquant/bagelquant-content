@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "demean"
-permalink: /zh/docs/core/reference/transformers/demean/
 lang: zh
 ref: "docs-core-reference-transformers-demean"
-alternate_lang_url: /docs/core/reference/transformers/demean/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/demean.md
 nav: docs_zh
 ---
 

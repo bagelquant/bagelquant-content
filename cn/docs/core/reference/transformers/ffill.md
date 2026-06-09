@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "ffill"
-permalink: /zh/docs/core/reference/transformers/ffill/
 lang: zh
 ref: "docs-core-reference-transformers-ffill"
-alternate_lang_url: /docs/core/reference/transformers/ffill/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/ffill.md
 nav: docs_zh
 ---
 

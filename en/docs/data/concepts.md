@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Concepts"
-permalink: /docs/data/concepts/
 lang: en
 ref: "docs-data-concepts"
-alternate_lang_url: /zh/docs/data/concepts/
+alternate_lang_url: ../../../cn/docs/data/concepts.md
 nav: docs_en
 ---
 

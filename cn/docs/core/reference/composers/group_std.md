@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_std"
-permalink: /zh/docs/core/reference/composers/group_std/
 lang: zh
 ref: "docs-core-reference-composers-group_std"
-alternate_lang_url: /docs/core/reference/composers/group_std/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/group_std.md
 nav: docs_zh
 ---
 

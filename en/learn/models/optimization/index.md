@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Optimization Models"
-permalink: /learn/models/optimization/
 lang: en
 ref: "learn-models-optimization"
-alternate_lang_url: /zh/learn/models/optimization/
+alternate_lang_url: ../../../../cn/learn/models/optimization/index.md
 ---
 
 Optimization models connect forecasts and constraints to portfolio decisions.

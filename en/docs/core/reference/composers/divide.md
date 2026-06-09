@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "divide"
-permalink: /docs/core/reference/composers/divide/
 lang: en
 ref: "docs-core-reference-composers-divide"
-alternate_lang_url: /zh/docs/core/reference/composers/divide/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/divide.md
 nav: docs_en
 ---
 

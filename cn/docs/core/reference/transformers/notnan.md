@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "notnan"
-permalink: /zh/docs/core/reference/transformers/notnan/
 lang: zh
 ref: "docs-core-reference-transformers-notnan"
-alternate_lang_url: /docs/core/reference/transformers/notnan/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/notnan.md
 nav: docs_zh
 ---
 

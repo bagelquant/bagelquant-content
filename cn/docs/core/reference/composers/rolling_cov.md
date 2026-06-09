@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_cov"
-permalink: /zh/docs/core/reference/composers/rolling_cov/
 lang: zh
 ref: "docs-core-reference-composers-rolling_cov"
-alternate_lang_url: /docs/core/reference/composers/rolling_cov/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/rolling_cov.md
 nav: docs_zh
 ---
 

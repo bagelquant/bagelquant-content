@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_elastic_net"
-permalink: /docs/core/reference/composers/rolling_elastic_net/
 lang: en
 ref: "docs-core-reference-composers-rolling_elastic_net"
-alternate_lang_url: /zh/docs/core/reference/composers/rolling_elastic_net/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/rolling_elastic_net.md
 nav: docs_en
 ---
 

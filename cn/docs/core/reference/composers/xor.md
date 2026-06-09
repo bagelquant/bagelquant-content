@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "xor"
-permalink: /zh/docs/core/reference/composers/xor/
 lang: zh
 ref: "docs-core-reference-composers-xor"
-alternate_lang_url: /docs/core/reference/composers/xor/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/xor.md
 nav: docs_zh
 ---
 

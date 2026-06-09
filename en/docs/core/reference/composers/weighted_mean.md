@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "weighted_mean"
-permalink: /docs/core/reference/composers/weighted_mean/
 lang: en
 ref: "docs-core-reference-composers-weighted_mean"
-alternate_lang_url: /zh/docs/core/reference/composers/weighted_mean/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/weighted_mean.md
 nav: docs_en
 ---
 

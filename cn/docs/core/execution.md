@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "执行"
-permalink: /zh/docs/core/execution/
 lang: zh
 ref: "docs-core-execution"
-alternate_lang_url: /docs/core/execution/
+alternate_lang_url: ../../../en/docs/core/execution.md
 nav: docs_zh
 ---
 

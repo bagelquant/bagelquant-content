@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_demean"
-permalink: /zh/docs/core/reference/composers/group_demean/
 lang: zh
 ref: "docs-core-reference-composers-group_demean"
-alternate_lang_url: /docs/core/reference/composers/group_demean/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/group_demean.md
 nav: docs_zh
 ---
 

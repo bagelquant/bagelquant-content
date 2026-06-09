@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_std"
-permalink: /docs/core/reference/transformers/rolling_std/
 lang: en
 ref: "docs-core-reference-transformers-rolling_std"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_std/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_std.md
 nav: docs_en
 ---
 

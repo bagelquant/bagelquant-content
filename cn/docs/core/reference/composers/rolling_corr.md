@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_corr"
-permalink: /zh/docs/core/reference/composers/rolling_corr/
 lang: zh
 ref: "docs-core-reference-composers-rolling_corr"
-alternate_lang_url: /docs/core/reference/composers/rolling_corr/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/rolling_corr.md
 nav: docs_zh
 ---
 

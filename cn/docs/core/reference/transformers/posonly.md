@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "posonly"
-permalink: /zh/docs/core/reference/transformers/posonly/
 lang: zh
 ref: "docs-core-reference-transformers-posonly"
-alternate_lang_url: /docs/core/reference/transformers/posonly/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/posonly.md
 nav: docs_zh
 ---
 

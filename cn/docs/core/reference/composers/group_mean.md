@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_mean"
-permalink: /zh/docs/core/reference/composers/group_mean/
 lang: zh
 ref: "docs-core-reference-composers-group_mean"
-alternate_lang_url: /docs/core/reference/composers/group_mean/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/group_mean.md
 nav: docs_zh
 ---
 

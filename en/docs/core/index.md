@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Overview"
-permalink: /docs/core/
 lang: en
 ref: "docs-core"
-alternate_lang_url: /zh/docs/core/
+alternate_lang_url: ../../../cn/docs/core/index.md
 nav: docs_en
 ---
 

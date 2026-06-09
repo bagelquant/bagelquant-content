@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "negate"
-permalink: /docs/core/reference/transformers/negate/
 lang: en
 ref: "docs-core-reference-transformers-negate"
-alternate_lang_url: /zh/docs/core/reference/transformers/negate/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/negate.md
 nav: docs_en
 ---
 

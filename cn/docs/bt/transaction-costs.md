@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "交易成本"
-permalink: /zh/docs/bt/transaction-costs/
 lang: zh
 ref: "docs-bt-transaction-costs"
-alternate_lang_url: /docs/bt/transaction-costs/
+alternate_lang_url: ../../../en/docs/bt/transaction-costs.md
 nav: docs_zh
 ---
 

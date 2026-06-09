@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "date_age_constraint"
-permalink: /docs/core/reference/transformers/date_age_constraint/
 lang: en
 ref: "docs-core-reference-transformers-date_age_constraint"
-alternate_lang_url: /zh/docs/core/reference/transformers/date_age_constraint/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/date_age_constraint.md
 nav: docs_en
 ---
 

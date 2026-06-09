@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "coalesce"
-permalink: /zh/docs/core/reference/composers/coalesce/
 lang: zh
 ref: "docs-core-reference-composers-coalesce"
-alternate_lang_url: /docs/core/reference/composers/coalesce/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/coalesce.md
 nav: docs_zh
 ---
 

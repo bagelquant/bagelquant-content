@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_percentile"
-permalink: /docs/core/reference/transformers/rolling_percentile/
 lang: en
 ref: "docs-core-reference-transformers-rolling_percentile"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_percentile/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_percentile.md
 nav: docs_en
 ---
 

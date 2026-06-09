@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "not_"
-permalink: /zh/docs/core/reference/composers/not_/
 lang: zh
 ref: "docs-core-reference-composers-not_"
-alternate_lang_url: /docs/core/reference/composers/not_/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/not_.md
 nav: docs_zh
 ---
 

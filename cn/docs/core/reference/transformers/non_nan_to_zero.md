@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "non_nan_to_zero"
-permalink: /zh/docs/core/reference/transformers/non_nan_to_zero/
 lang: zh
 ref: "docs-core-reference-transformers-non_nan_to_zero"
-alternate_lang_url: /docs/core/reference/transformers/non_nan_to_zero/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/non_nan_to_zero.md
 nav: docs_zh
 ---
 

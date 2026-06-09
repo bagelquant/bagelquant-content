@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "boxcox"
-permalink: /zh/docs/core/reference/transformers/boxcox/
 lang: zh
 ref: "docs-core-reference-transformers-boxcox"
-alternate_lang_url: /docs/core/reference/transformers/boxcox/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/boxcox.md
 nav: docs_zh
 ---
 

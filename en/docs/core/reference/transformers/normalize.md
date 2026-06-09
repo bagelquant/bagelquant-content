@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "normalize"
-permalink: /docs/core/reference/transformers/normalize/
 lang: en
 ref: "docs-core-reference-transformers-normalize"
-alternate_lang_url: /zh/docs/core/reference/transformers/normalize/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/normalize.md
 nav: docs_en
 ---
 

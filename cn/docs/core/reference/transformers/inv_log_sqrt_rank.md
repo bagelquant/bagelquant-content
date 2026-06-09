@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "inv_log_sqrt_rank"
-permalink: /zh/docs/core/reference/transformers/inv_log_sqrt_rank/
 lang: zh
 ref: "docs-core-reference-transformers-inv_log_sqrt_rank"
-alternate_lang_url: /docs/core/reference/transformers/inv_log_sqrt_rank/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/inv_log_sqrt_rank.md
 nav: docs_zh
 ---
 

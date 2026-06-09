@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "log1p"
-permalink: /zh/docs/core/reference/transformers/log1p/
 lang: zh
 ref: "docs-core-reference-transformers-log1p"
-alternate_lang_url: /docs/core/reference/transformers/log1p/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/log1p.md
 nav: docs_zh
 ---
 

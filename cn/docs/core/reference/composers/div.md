@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "div"
-permalink: /zh/docs/core/reference/composers/div/
 lang: zh
 ref: "docs-core-reference-composers-div"
-alternate_lang_url: /docs/core/reference/composers/div/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/div.md
 nav: docs_zh
 ---
 

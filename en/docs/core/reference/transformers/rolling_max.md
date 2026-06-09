@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_max"
-permalink: /docs/core/reference/transformers/rolling_max/
 lang: en
 ref: "docs-core-reference-transformers-rolling_max"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_max/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_max.md
 nav: docs_en
 ---
 

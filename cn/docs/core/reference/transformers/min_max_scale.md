@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "min_max_scale"
-permalink: /zh/docs/core/reference/transformers/min_max_scale/
 lang: zh
 ref: "docs-core-reference-transformers-min_max_scale"
-alternate_lang_url: /docs/core/reference/transformers/min_max_scale/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/min_max_scale.md
 nav: docs_zh
 ---
 

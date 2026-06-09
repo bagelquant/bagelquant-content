@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Models"
-permalink: /learn/models/
 lang: en
 ref: "learn-models"
-alternate_lang_url: /zh/learn/models/
+alternate_lang_url: ../../../cn/learn/models/index.md
 ---
 
 This section covers the models used to estimate relationships, combine features, and solve portfolio problems.

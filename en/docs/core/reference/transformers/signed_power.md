@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "signed_power"
-permalink: /docs/core/reference/transformers/signed_power/
 lang: en
 ref: "docs-core-reference-transformers-signed_power"
-alternate_lang_url: /zh/docs/core/reference/transformers/signed_power/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/signed_power.md
 nav: docs_en
 ---
 

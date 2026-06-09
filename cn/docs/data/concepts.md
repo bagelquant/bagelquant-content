@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "概念"
-permalink: /zh/docs/data/concepts/
 lang: zh
 ref: "docs-data-concepts"
-alternate_lang_url: /docs/data/concepts/
+alternate_lang_url: ../../../en/docs/data/concepts.md
 nav: docs_zh
 ---
 

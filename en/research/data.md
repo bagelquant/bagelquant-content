@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Research Data"
-permalink: /research/data/
 lang: en
 ref: "research-data"
-alternate_lang_url: /zh/research/data/
+alternate_lang_url: ../../cn/research/data.md
 ---
 
 Research starts with data that reflects what was knowable at each historical date. This section focuses on point-in-time datasets, entity identifiers, reporting delays, corporate actions, and leakage prevention.

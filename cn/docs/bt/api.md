@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "API"
-permalink: /zh/docs/bt/api/
 lang: zh
 ref: "docs-bt-api"
-alternate_lang_url: /docs/bt/api/
+alternate_lang_url: ../../../en/docs/bt/api.md
 nav: docs_zh
 ---
 

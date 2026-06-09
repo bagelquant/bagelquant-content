@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "快速开始"
-permalink: /zh/docs/core/quick-start/
 lang: zh
 ref: "docs-core-quick-start"
-alternate_lang_url: /docs/core/quick-start/
+alternate_lang_url: ../../../en/docs/core/quick-start.md
 nav: docs_zh
 ---
 

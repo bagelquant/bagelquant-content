@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "subtract"
-permalink: /docs/core/reference/composers/subtract/
 lang: en
 ref: "docs-core-reference-composers-subtract"
-alternate_lang_url: /zh/docs/core/reference/composers/subtract/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/subtract.md
 nav: docs_en
 ---
 

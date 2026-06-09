@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "arctanh"
-permalink: /docs/core/reference/transformers/arctanh/
 lang: en
 ref: "docs-core-reference-transformers-arctanh"
-alternate_lang_url: /zh/docs/core/reference/transformers/arctanh/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/arctanh.md
 nav: docs_en
 ---
 

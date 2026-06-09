@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "zscore"
-permalink: /zh/docs/core/reference/transformers/zscore/
 lang: zh
 ref: "docs-core-reference-transformers-zscore"
-alternate_lang_url: /docs/core/reference/transformers/zscore/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/zscore.md
 nav: docs_zh
 ---
 

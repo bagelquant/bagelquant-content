@@ -1,19 +1,18 @@
 ---
 layout: page
 title: "Research"
-permalink: /research/
 excerpt: "A practitioner workflow for turning ideas into testable equity strategies."
 lang: en
 ref: "research"
-alternate_lang_url: /zh/research/
+alternate_lang_url: ../../cn/research/index.md
 ---
 
 This section is for researchers who want to turn concepts into investable, reproducible strategies.
 
 Recommended reading order:
 
-1. [Data](/research/data/)
-2. [Factors](/research/factors/)
-3. [Prediction](/research/prediction/)
-4. [Portfolio](/research/portfolio/)
-5. [Backtest](/research/backtest/)
+1. [Data](data.md)
+2. [Factors](factors.md)
+3. [Prediction](prediction.md)
+4. [Portfolio](portfolio.md)
+5. [Backtest](backtest.md)

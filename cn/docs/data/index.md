@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "概览"
-permalink: /zh/docs/data/
 lang: zh
 ref: "docs-data"
-alternate_lang_url: /docs/data/
+alternate_lang_url: ../../../en/docs/data/index.md
 nav: docs_zh
 ---
 

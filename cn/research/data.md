@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Research Data"
-permalink: /zh/research/data/
 lang: zh
 ref: "research-data"
-alternate_lang_url: /research/data/
+alternate_lang_url: ../../en/research/data.md
 ---
 
 研究从反映每个历史日期已知内容的数据开始。本节重点介绍时间点数据集、实体标识符、报告延迟、公司行为和泄漏预防。

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "translate_to_pos"
-permalink: /docs/core/reference/transformers/translate_to_pos/
 lang: en
 ref: "docs-core-reference-transformers-translate_to_pos"
-alternate_lang_url: /zh/docs/core/reference/transformers/translate_to_pos/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/translate_to_pos.md
 nav: docs_en
 ---
 

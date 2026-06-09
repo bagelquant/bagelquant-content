@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "project"
-permalink: /zh/docs/core/reference/composers/project/
 lang: zh
 ref: "docs-core-reference-composers-project"
-alternate_lang_url: /docs/core/reference/composers/project/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/project.md
 nav: docs_zh
 ---
 

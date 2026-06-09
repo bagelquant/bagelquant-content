@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "mean"
-permalink: /docs/core/reference/composers/mean/
 lang: en
 ref: "docs-core-reference-composers-mean"
-alternate_lang_url: /zh/docs/core/reference/composers/mean/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/mean.md
 nav: docs_en
 ---
 

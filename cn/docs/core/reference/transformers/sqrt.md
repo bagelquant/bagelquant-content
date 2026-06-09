@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "sqrt"
-permalink: /zh/docs/core/reference/transformers/sqrt/
 lang: zh
 ref: "docs-core-reference-transformers-sqrt"
-alternate_lang_url: /docs/core/reference/transformers/sqrt/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/sqrt.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "arcsin"
-permalink: /zh/docs/core/reference/transformers/arcsin/
 lang: zh
 ref: "docs-core-reference-transformers-arcsin"
-alternate_lang_url: /docs/core/reference/transformers/arcsin/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/arcsin.md
 nav: docs_zh
 ---
 

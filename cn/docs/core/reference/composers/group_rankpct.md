@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_rankpct"
-permalink: /zh/docs/core/reference/composers/group_rankpct/
 lang: zh
 ref: "docs-core-reference-composers-group_rankpct"
-alternate_lang_url: /docs/core/reference/composers/group_rankpct/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/group_rankpct.md
 nav: docs_zh
 ---
 

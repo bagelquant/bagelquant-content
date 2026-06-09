@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Overview"
-permalink: /docs/bt/
 lang: en
 ref: "docs-bt"
-alternate_lang_url: /zh/docs/bt/
+alternate_lang_url: ../../../cn/docs/bt/index.md
 nav: docs_en
 ---
 

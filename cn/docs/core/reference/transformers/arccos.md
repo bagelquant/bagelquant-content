@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "arccos"
-permalink: /zh/docs/core/reference/transformers/arccos/
 lang: zh
 ref: "docs-core-reference-transformers-arccos"
-alternate_lang_url: /docs/core/reference/transformers/arccos/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/arccos.md
 nav: docs_zh
 ---
 

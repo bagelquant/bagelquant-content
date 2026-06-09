@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "Overview"
-permalink: /docs/core/reference/transformers/
 lang: en
 ref: "docs-core-reference-transformers"
-alternate_lang_url: /zh/docs/core/reference/transformers/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/index.md
 nav: docs_en
 ---
 

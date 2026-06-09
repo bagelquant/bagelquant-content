@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "product"
-permalink: /zh/docs/core/reference/composers/product/
 lang: zh
 ref: "docs-core-reference-composers-product"
-alternate_lang_url: /docs/core/reference/composers/product/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/product.md
 nav: docs_zh
 ---
 

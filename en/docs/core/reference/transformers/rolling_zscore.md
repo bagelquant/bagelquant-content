@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_zscore"
-permalink: /docs/core/reference/transformers/rolling_zscore/
 lang: en
 ref: "docs-core-reference-transformers-rolling_zscore"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_zscore/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_zscore.md
 nav: docs_en
 ---
 

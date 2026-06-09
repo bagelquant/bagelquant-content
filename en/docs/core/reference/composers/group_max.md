@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_max"
-permalink: /docs/core/reference/composers/group_max/
 lang: en
 ref: "docs-core-reference-composers-group_max"
-alternate_lang_url: /zh/docs/core/reference/composers/group_max/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/group_max.md
 nav: docs_en
 ---
 

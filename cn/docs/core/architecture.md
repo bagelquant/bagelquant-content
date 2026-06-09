@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Architecture And Design"
-permalink: /zh/docs/core/architecture/
 lang: zh
 ref: "docs-core-architecture"
-alternate_lang_url: /docs/core/architecture/
+alternate_lang_url: ../../../en/docs/core/architecture.md
 nav: docs_zh
 ---
 

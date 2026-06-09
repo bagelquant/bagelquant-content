@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Data Contracts"
-permalink: /docs/data/contracts/
 lang: en
 ref: "docs-data-contracts"
-alternate_lang_url: /zh/docs/data/contracts/
+alternate_lang_url: ../../../cn/docs/data/contracts.md
 nav: docs_en
 ---
 

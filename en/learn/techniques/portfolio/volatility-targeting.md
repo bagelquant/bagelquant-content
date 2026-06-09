@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /learn/techniques/portfolio/volatility-targeting/
 lang: en
 ref: "learn-techniques-portfolio-volatility-targeting"
-alternate_lang_url: /zh/learn/techniques/portfolio/volatility-targeting/
+alternate_lang_url: ../../../../cn/learn/techniques/portfolio/volatility-targeting.md
 ---
 
 # Volatility Targeting

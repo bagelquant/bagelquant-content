@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_var"
-permalink: /zh/docs/core/reference/transformers/rolling_var/
 lang: zh
 ref: "docs-core-reference-transformers-rolling_var"
-alternate_lang_url: /docs/core/reference/transformers/rolling_var/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/rolling_var.md
 nav: docs_zh
 ---
 

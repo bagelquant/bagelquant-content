@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "sub"
-permalink: /zh/docs/core/reference/composers/sub/
 lang: zh
 ref: "docs-core-reference-composers-sub"
-alternate_lang_url: /docs/core/reference/composers/sub/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/sub.md
 nav: docs_zh
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_sum"
-permalink: /docs/core/reference/transformers/rolling_sum/
 lang: en
 ref: "docs-core-reference-transformers-rolling_sum"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_sum/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_sum.md
 nav: docs_en
 ---
 

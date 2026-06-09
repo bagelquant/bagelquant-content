@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "ewm_var"
-permalink: /docs/core/reference/transformers/ewm_var/
 lang: en
 ref: "docs-core-reference-transformers-ewm_var"
-alternate_lang_url: /zh/docs/core/reference/transformers/ewm_var/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/ewm_var.md
 nav: docs_en
 ---
 

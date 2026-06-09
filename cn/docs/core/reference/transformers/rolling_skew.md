@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_skew"
-permalink: /zh/docs/core/reference/transformers/rolling_skew/
 lang: zh
 ref: "docs-core-reference-transformers-rolling_skew"
-alternate_lang_url: /docs/core/reference/transformers/rolling_skew/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/rolling_skew.md
 nav: docs_zh
 ---
 

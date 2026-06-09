@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "log_rank"
-permalink: /docs/core/reference/transformers/log_rank/
 lang: en
 ref: "docs-core-reference-transformers-log_rank"
-alternate_lang_url: /zh/docs/core/reference/transformers/log_rank/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/log_rank.md
 nav: docs_en
 ---
 

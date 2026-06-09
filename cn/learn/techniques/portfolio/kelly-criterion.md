@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /zh/learn/techniques/portfolio/kelly-criterion/
 lang: zh
 ref: "learn-techniques-portfolio-kelly-criterion"
-alternate_lang_url: /learn/techniques/portfolio/kelly-criterion/
+alternate_lang_url: ../../../../en/learn/techniques/portfolio/kelly-criterion.md
 ---
 
 # 凯利准则（Kelly Criterion）

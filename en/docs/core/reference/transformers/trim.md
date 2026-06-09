@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "trim"
-permalink: /docs/core/reference/transformers/trim/
 lang: en
 ref: "docs-core-reference-transformers-trim"
-alternate_lang_url: /zh/docs/core/reference/transformers/trim/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/trim.md
 nav: docs_en
 ---
 

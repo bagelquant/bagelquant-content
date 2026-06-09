@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "group_rank"
-permalink: /docs/core/reference/composers/group_rank/
 lang: en
 ref: "docs-core-reference-composers-group_rank"
-alternate_lang_url: /zh/docs/core/reference/composers/group_rank/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/group_rank.md
 nav: docs_en
 ---
 

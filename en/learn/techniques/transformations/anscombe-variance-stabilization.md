@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /learn/techniques/transformations/anscombe-variance-stabilization/
 lang: en
 ref: "learn-techniques-transformations-anscombe-variance-stabilization"
-alternate_lang_url: /zh/learn/techniques/transformations/anscombe-variance-stabilization/
+alternate_lang_url: ../../../../cn/learn/techniques/transformations/anscombe-variance-stabilization.md
 ---
 # Anscombe Variance Stabilization
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "replace_non_nan"
-permalink: /zh/docs/core/reference/transformers/replace_non_nan/
 lang: zh
 ref: "docs-core-reference-transformers-replace_non_nan"
-alternate_lang_url: /docs/core/reference/transformers/replace_non_nan/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/replace_non_nan.md
 nav: docs_zh
 ---
 

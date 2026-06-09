@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "kelly_rank_boxcox"
-permalink: /docs/core/reference/transformers/kelly_rank_boxcox/
 lang: en
 ref: "docs-core-reference-transformers-kelly_rank_boxcox"
-alternate_lang_url: /zh/docs/core/reference/transformers/kelly_rank_boxcox/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/kelly_rank_boxcox.md
 nav: docs_en
 ---
 

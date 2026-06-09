@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /learn/techniques/portfolio/risk-parity/
 lang: en
 ref: "learn-techniques-portfolio-risk-parity"
-alternate_lang_url: /zh/learn/techniques/portfolio/risk-parity/
+alternate_lang_url: ../../../../cn/learn/techniques/portfolio/risk-parity.md
 ---
 
 # Risk Parity

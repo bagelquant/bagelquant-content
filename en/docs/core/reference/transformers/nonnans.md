@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "nonnans"
-permalink: /docs/core/reference/transformers/nonnans/
 lang: en
 ref: "docs-core-reference-transformers-nonnans"
-alternate_lang_url: /zh/docs/core/reference/transformers/nonnans/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/nonnans.md
 nav: docs_en
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: content-list
 title: "概览"
-permalink: /zh/docs/core/
 lang: zh
 ref: "docs-core"
-alternate_lang_url: /docs/core/
+alternate_lang_url: ../../../en/docs/core/index.md
 nav: docs_zh
 ---
 

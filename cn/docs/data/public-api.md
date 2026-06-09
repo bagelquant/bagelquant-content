@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "公开 API"
-permalink: /zh/docs/data/public-api/
 lang: zh
 ref: "docs-data-public-api"
-alternate_lang_url: /docs/data/public-api/
+alternate_lang_url: ../../../en/docs/data/public-api.md
 nav: docs_zh
 ---
 

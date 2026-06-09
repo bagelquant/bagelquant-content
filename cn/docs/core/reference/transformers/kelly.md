@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "kelly"
-permalink: /zh/docs/core/reference/transformers/kelly/
 lang: zh
 ref: "docs-core-reference-transformers-kelly"
-alternate_lang_url: /docs/core/reference/transformers/kelly/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/kelly.md
 nav: docs_zh
 ---
 

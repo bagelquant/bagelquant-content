@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_median"
-permalink: /docs/core/reference/transformers/rolling_median/
 lang: en
 ref: "docs-core-reference-transformers-rolling_median"
-alternate_lang_url: /zh/docs/core/reference/transformers/rolling_median/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/rolling_median.md
 nav: docs_en
 ---
 

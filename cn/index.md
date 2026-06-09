@@ -1,8 +1,5 @@
 ---
 layout: home_page
-title: "BagelQuant"
-aliases: BagelQuant
-author: "Eric Huang"
 excerpt: "从基础原理到可投资组合的量化股票研究。"
 header:
   overlay_image: /assets/images/header.png
@@ -11,9 +8,10 @@ header:
       url: "/quick-start/"
 lang: zh
 ref: "home"
-alternate_lang_url: /
-permalink: /zh/
+alternate_lang_url: ../en.md
 ---
+
+# Bagelquant
 
 ## 什么是 BagelQuant？
 
@@ -26,15 +24,15 @@ BagelQuant 是一套完整的**股票量化投资**研究平台。 覆盖知识�
 
 ## 从这里开始
 
-- [快速开始](/zh/quick-start/) 为新读者提供了简短的引导介绍。
-- [学习](/zh/learn/) 是数学、金融、模型和技术的更深层次知识库。
-- [研究](/zh/research/) 前沿的研究成果及论文分享。
-- [文档](/zh/docs/) 开源投研平台文档
+- [快速开始](quick-start/index.md) 为新读者提供了简短的引导介绍。
+- [学习](learn/index.md) 是数学、金融、模型和技术的更深层次知识库。
+- [研究](research/index.md) 前沿的研究成果及论文分享。
+- [文档](docs/index.md) 开源投研平台文档
 
 ## 未来应用
 
-未来的 [BagelQuant App](/zh/app/) 将提供基于图形的界面，用于通过可重用的研究管道构建因素、预测模型、组合策略和回测。
+未来的 [BagelQuant App](app/index.md) 将提供基于图形的界面，用于通过可重用的研究管道构建因素、预测模型、组合策略和回测。
 
 ## About Me
 
-BagelQuant 由 [Yanzhong (Eric) Huang](/zh/about-me/) 维护，股票量化研究员，深耕于因子挖掘、组合优化和交易策略的研究。
+BagelQuant 由 [Yanzhong (Eric) Huang](about-me.md) 维护，股票量化研究员，深耕于因子挖掘、组合优化和交易策略的研究。

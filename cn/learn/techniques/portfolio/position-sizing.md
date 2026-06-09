@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /zh/learn/techniques/portfolio/position-sizing/
 lang: zh
 ref: "learn-techniques-portfolio-position-sizing"
-alternate_lang_url: /learn/techniques/portfolio/position-sizing/
+alternate_lang_url: ../../../../en/learn/techniques/portfolio/position-sizing.md
 ---
 
 # 仓位管理（Position Sizing）

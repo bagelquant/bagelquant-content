@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_lasso"
-permalink: /zh/docs/core/reference/composers/rolling_lasso/
 lang: zh
 ref: "docs-core-reference-composers-rolling_lasso"
-alternate_lang_url: /docs/core/reference/composers/rolling_lasso/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/rolling_lasso.md
 nav: docs_zh
 ---
 

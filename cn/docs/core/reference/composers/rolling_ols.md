@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "rolling_ols"
-permalink: /zh/docs/core/reference/composers/rolling_ols/
 lang: zh
 ref: "docs-core-reference-composers-rolling_ols"
-alternate_lang_url: /docs/core/reference/composers/rolling_ols/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/rolling_ols.md
 nav: docs_zh
 ---
 

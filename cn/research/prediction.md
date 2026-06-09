@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "预测"
-permalink: /zh/research/prediction/
 lang: zh
 ref: "research-prediction"
-alternate_lang_url: /research/prediction/
+alternate_lang_url: ../../en/research/prediction.md
 ---
 
 预测将特征结合到预期回报预测中。从透明的基线开始，使用时间感知验证，并在考虑营业额和组合行为后比较模型。

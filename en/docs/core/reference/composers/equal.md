@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "equal"
-permalink: /docs/core/reference/composers/equal/
 lang: en
 ref: "docs-core-reference-composers-equal"
-alternate_lang_url: /zh/docs/core/reference/composers/equal/
+alternate_lang_url: ../../../../../cn/docs/core/reference/composers/equal.md
 nav: docs_en
 ---
 

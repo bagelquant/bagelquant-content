@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "and_"
-permalink: /zh/docs/core/reference/composers/and_/
 lang: zh
 ref: "docs-core-reference-composers-and_"
-alternate_lang_url: /docs/core/reference/composers/and_/
+alternate_lang_url: ../../../../../en/docs/core/reference/composers/and_.md
 nav: docs_zh
 ---
 

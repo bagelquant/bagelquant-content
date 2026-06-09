@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Panel"
-permalink: /zh/docs/core/panel/
 lang: zh
 ref: "docs-core-panel"
-alternate_lang_url: /docs/core/panel/
+alternate_lang_url: ../../../en/docs/core/panel.md
 nav: docs_zh
 ---
 

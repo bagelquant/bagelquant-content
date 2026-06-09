@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "net_scale"
-permalink: /docs/core/reference/transformers/net_scale/
 lang: en
 ref: "docs-core-reference-transformers-net_scale"
-alternate_lang_url: /zh/docs/core/reference/transformers/net_scale/
+alternate_lang_url: ../../../../../cn/docs/core/reference/transformers/net_scale.md
 nav: docs_en
 ---
 

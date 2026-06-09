@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "power"
-permalink: /zh/docs/core/reference/transformers/power/
 lang: zh
 ref: "docs-core-reference-transformers-power"
-alternate_lang_url: /docs/core/reference/transformers/power/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/power.md
 nav: docs_zh
 ---
 

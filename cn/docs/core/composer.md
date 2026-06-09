@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Composer"
-permalink: /zh/docs/core/composer/
 lang: zh
 ref: "docs-core-composer"
-alternate_lang_url: /docs/core/composer/
+alternate_lang_url: ../../../en/docs/core/composer.md
 nav: docs_zh
 ---
 

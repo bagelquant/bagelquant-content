@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "diff"
-permalink: /zh/docs/core/reference/transformers/diff/
 lang: zh
 ref: "docs-core-reference-transformers-diff"
-alternate_lang_url: /docs/core/reference/transformers/diff/
+alternate_lang_url: ../../../../../en/docs/core/reference/transformers/diff.md
 nav: docs_zh
 ---
 
