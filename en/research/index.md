@@ -7,7 +7,7 @@ ref: "research"
 alternate_lang_url: /content/cn/research/
 ---
 
-This section is for researchers who want to turn concepts into investable, reproducible strategies.
+This section is 
 
 Recommended reading order:
 
