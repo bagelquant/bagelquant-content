@@ -7,12 +7,6 @@ ref: "research"
 alternate_lang_url: /content/en/research/
 ---
 
-本节适合那些想要将概念转化为可投资、可重复策略的研究人员。
+本部分是与量化金融和算法交易相关的研究文章、论文评论和新闻的集合。它旨在为那些有兴趣了解该领域最新发展并将其应用于自己工作的实践者提供资源。
 
-推荐阅读顺序：
-
-1. [数据](data.md)
-2. [因子](factors.md)
-3. [预测](prediction.md)
-4. [组合](portfolio.md)
-5. [回测](backtest.md)
+> 敬请期待更多内容。
