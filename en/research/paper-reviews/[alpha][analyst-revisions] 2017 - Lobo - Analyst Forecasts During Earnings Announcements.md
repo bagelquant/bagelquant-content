@@ -1,13 +1,6 @@
 ---
 layout: content
-title: "The Effect of Analyst Forecasts during Earnings Announcements on Investor Responses to Reported Earnings"
-tags:
-  - alpha
-  - analyst-revisions
-year: 2017
-first_author: Lobo
-journal: "The Accounting Review"
-doi: "10.2308/accr-51556"
+read: true
 ---
 # The Effect of Analyst Forecasts during Earnings Announcements on Investor Responses to Reported Earnings
 

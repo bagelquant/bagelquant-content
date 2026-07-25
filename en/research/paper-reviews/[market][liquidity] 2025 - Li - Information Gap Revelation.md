@@ -1,10 +1,6 @@
 ---
 layout: content
-title: "Learning Your Neglect: Information Gap Revelation and Market Liquidity"
-tags:
-  - market
-  - liquidity
-read: false
+read: true
 ---
 # Learning Your Neglect: Information Gap Revelation and Market Liquidity
 

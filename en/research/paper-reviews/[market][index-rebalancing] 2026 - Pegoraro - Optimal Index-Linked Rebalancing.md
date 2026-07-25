@@ -1,9 +1,5 @@
 ---
 layout: content
-title: Optimal Index-Linked Rebalancing with Anticipatory Trading
-tags:
-  - market
-  - index-rebalancing
 read: false
 ---
 

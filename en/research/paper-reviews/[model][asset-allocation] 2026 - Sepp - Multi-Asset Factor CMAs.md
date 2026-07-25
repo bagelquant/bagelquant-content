@@ -1,9 +1,5 @@
 ---
 layout: content
-title: Capital Market Assumptions and Strategic Asset Allocation Using Multi-Asset Tradable Factors
-tags:
-  - model
-  - asset-allocation
 read: false
 ---
 
