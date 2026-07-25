@@ -1,12 +1,6 @@
 ---
 layout: content
-title: "Announcements, Expectations, and Stock Returns with Asymmetric Information"
-author: "Leyla Jianyu Han"
-year: 2025
-tags:
-  - model
-  - asymmetric-information
-doi: "10.1016/j.jmoneco.2025.103751"
+read: true
 ---
 
 # Announcements, Expectations, and Stock Returns with Asymmetric Information
